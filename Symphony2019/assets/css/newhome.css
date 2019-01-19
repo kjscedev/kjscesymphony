@@ -23,6 +23,7 @@ a {
 
 body {
   background-color: var(--color-yellow);
+  overflow: hidden;
 }
 
 .header {
@@ -51,8 +52,8 @@ body {
 .shield a {
   color: #97477b;
 }
-.syhahi a {
-  color: #7f578b;
+.syahi a {
+  color: #7F578B;
 }
 .rules a {
   color: #68649a;
@@ -68,7 +69,7 @@ body {
 }
 
 .homepage {
-  height: calc(100vh - 100px);
+  height: calc(100vh - 200px);
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -80,16 +81,18 @@ body {
   font-family: Portico;
   font-weight: bold;
   width: 45vw;
-  font-size: 65px;
-  line-height: 50px;
-  padding-left: 5vw;
+  font-size: 54px;
+  line-height: 43px;
+  padding-left: 6vw;
 }
 
 .homepage__title {
   display: inline;
   cursor: pointer;
 }
-
+.homepage__titles_white:hover{
+  color: white;
+}
 .homepage__img {
   width: 55vw;
   position: relative;
@@ -101,11 +104,11 @@ body {
 }
 
 .homepage__imgContainer {
-  width: 40vw;
+  width: 35vw;
   position: absolute;
   top: 50%;
-  left: 30%;
-  transform: translate(-50%, -50%);
+  right: 10%;
+  transform: translate(-15%, -50%);
 }
 
 .homepage__imgChange {
@@ -124,8 +127,11 @@ body {
 }
 
 @media only screen and (max-width: 600px) {
+  #home-logo {
+    display: none;
+  }
   .header {
-    height: 50px;
+    height: 42px;
   }
 
   .homepage {
@@ -141,6 +147,7 @@ body {
   }
 
   .homepage__imgContainer {
+    text-align: center;
     width: 80vw;
     margin: auto;
     position: static;
@@ -149,11 +156,17 @@ body {
 
   .homepage__menu {
     width: 100vw;
-    font-size: 40px;
-    line-height: 30px;
+    font-size: 32px;
+    line-height: 26px;
   }
 
   .socialmedia {
     flex-direction: row;
   }
-}
+
+  .Reg_bro{
+    height: 20vw;
+    width: 30vw;
+    background color: #ffffff;
+  }
+

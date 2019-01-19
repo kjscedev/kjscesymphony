@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="42.3332mm" height="42.3332mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4233 4233"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil1 {fill:none}
+    .fil0 {fill:#F80C3A}
+    .fil2 {fill:#F80C3A}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_1489964552576">
+   <g>
+    <g id="_2853961788928">
+     <path class="fil0" d="M8734 618c271,-58 1159,-17 1498,-18 243,0 456,52 594,170 124,105 240,245 284,458 59,287 16,1157 16,1508 1,440 -189,789 -623,880 -280,58 -1162,15 -1508,16 -266,1 -419,-23 -595,-166 -118,-95 -242,-233 -288,-452 -62,-293 -19,-1163 -20,-1515 0,-497 217,-789 642,-881zm2107 2343c46,-200 13,-974 13,-1237 0,-272 54,-731 -393,-837 -190,-45 -986,-13 -1241,-13 -261,0 -736,-62 -839,392 -49,214 -15,975 -15,1245 0,281 -55,732 400,836 197,45 980,12 1241,12 438,0 743,-4 834,-398z"/>
+     <path class="fil0" d="M10318 1175c231,-135 413,237 185,348 -249,122 -400,-222 -185,-348z"/>
+     <path class="fil0" d="M10355 2264c-220,1005 -1694,670 -1488,-308 209,-988 1695,-644 1488,308zm-281 0c189,-628 -739,-889 -926,-299 -98,308 102,548 317,616 288,90 544,-104 609,-317l0 0z"/>
+    </g>
+   </g>
+   <polygon class="fil1" points="7493,0 11726,0 11726,4233 7493,4233 "/>
+  </g>
+  <rect class="fil1" width="4233" height="4233"/>
+  <g id="_1489964553280">
+   <path class="fil2" d="M995 729l1795 0 -447 447 -1230 0 0 1972 1972 0 0 -1285 447 -447 0 1850c0,181 -148,328 -329,328l-2208 0c-181,0 -328,-147 -328,-328l0 -2208c0,-181 147,-329 328,-329z"/>
+   <g>
+    <rect class="fil2" transform="matrix(-0.538757 -0.538757 -0.469311 0.469311 3723.87 1056.81)" width="1016" height="2540"/>
+    <polygon class="fil2" points="1655,2578 1895,1791 2442,2338 "/>
+    <rect class="fil2" transform="matrix(-0.538757 -0.538757 0.14816 -0.14816 3813.49 967.191)" width="1016" height="2540" rx="195" ry="195"/>
+   </g>
+  </g>
+ </g>
+ <g id="Layer_x0020_1_0">
+  <metadata id="CorelCorpID_1Corel-Layer"/>
+  <g id="_1489964551200">
+  </g>
+ </g>
+</svg>

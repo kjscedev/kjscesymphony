@@ -7,8 +7,8 @@
 // doughnutchart4 - Etrx
 $(function(){
   $("#doughnutChart").drawDoughnutChart([
-    { title: "Indoor Sports",    value : 78,   color: "#fb736a" },
-    { title: "Technical",           value : 16,   color: "#fb9c70" },
+    { title: "Indoor Sports",    value : 54,   color: "#b7ed9a" },
+    { title: "Technical",           value : 46,   color: "#f7ffe0" },
     { title: "Dance",         value : 0,   color: "#fbd995" },
     { title: "Debate",        value : 0,   color: "#9a3767" },
     { title: "Drama",         value : 0,   color: "#7b295c" },
@@ -21,8 +21,8 @@ $(function(){
 
 $(function(){
   $("#doughnutChart1").drawDoughnutChart([
-    { title: "Indoor Sports",    value : 62,   color: "#fb736a" },
-    { title: "Technical",           value : 14,   color: "#fb9c70" },
+    { title: "Indoor Sports",    value : 109,   color: "#b7ed9a" },
+    { title: "Technical",           value : 58,   color: "#f7ffe0" },
     { title: "Dance",         value : 0,   color: "#fbd995" },
     { title: "Debate",        value : 0,   color: "#9a3767" },
     { title: "Drama",         value : 0,   color: "#7b295c" },
@@ -35,8 +35,8 @@ $(function(){
 
 $(function(){
   $("#doughnutChart2").drawDoughnutChart([
-    { title: "Indoor Sports",    value : 78,   color: "#fb736a" },
-    { title: "Technical",           value : 25,   color: "#fb9c70" },
+    { title: "Indoor Sports",    value : 119,   color: "#b7ed9a" },
+    { title: "Technical",           value : 30,   color: "#f7ffe0" },
     { title: "Dance",         value : 0,   color: "#fbd995" },
     { title: "Debate",        value : 0,   color: "#9a3767" },
     { title: "Drama",         value : 0,   color: "#7b295c" },
@@ -49,8 +49,8 @@ $(function(){
 
 $(function(){
   $("#doughnutChart3").drawDoughnutChart([
-    { title: "Indoor Sports",    value : 143,   color: "#fb736a" },
-    { title: "Technical",           value : 49,   color: "#fb9c70" },
+    { title: "Indoor Sports",    value : 105,   color: "#b7ed9a" },
+    { title: "Technical",           value : 90,   color: "#f7ffe0" },
     { title: "Dance",         value : 0,   color: "#fbd995" },
     { title: "Debate",        value : 0,   color: "#9a3767" },
     { title: "Drama",         value : 0,   color: "#7b295c" },
@@ -63,8 +63,8 @@ $(function(){
 
 $(function(){
   $("#doughnutChart4").drawDoughnutChart([
-    { title: "Indoor Sports",    value : 39,   color: "#fb736a" },
-    { title: "Technical",           value : 36,   color: "#fb9c70" },
+    { title: "Indoor Sports",    value : 18,   color: "#b7ed9a" },
+    { title: "Technical",           value : 12,   color: "#f7ffe0" },
     { title: "Dance",         value : 0,   color: "#fbd995" },
     { title: "Debate",        value : 0,   color: "#9a3767" },
     { title: "Drama",         value : 0,   color: "#7b295c" },
@@ -96,9 +96,9 @@ $(function(){
       PI = Math.PI,
       settings = $.extend({
         segmentShowStroke : true,
-        segmentStrokeColor : "#0C1013",
+        segmentStrokeColor : "#f7ffe0",
         segmentStrokeWidth : 1,
-        baseColor: "rgba(0,0,0,0.5)",
+        baseColor: "#f7ffe0",
         baseOffset: 4,
         edgeOffset : 10,//offset from edge of $this
         percentageInnerCutout : 75,

@@ -107,7 +107,7 @@ background-color: #EDFFBA;
 
 .eventcontainer {
 margin:auto;
-padding-top: calc(20vh - 60px);
+padding-top: 40px;
 /* padding-bottom: calc(20vh - 60px); */
 display: block;
 max-width: 1000px;
@@ -150,7 +150,7 @@ font-weight: 600;
 }
 .tab__content
 {
-max-height: 60vh;
+max-height: 70vh;
 overflow: auto;
 display: -webkit-box;
 display: -ms-flexbox;
@@ -352,28 +352,26 @@ background:linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0.2)); */
 
 /*=====================================================================*/
 
-/*custom scroll bars*/
+/*scroll bars*/
 .tab__content::-webkit-scrollbar-track
 {
--webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
-background-color: #422446;
+  border-radius: 5px;
+  -webkit-box-shadow: inset 0 0 6px #FFF;
+  background-color: #FFF;
 }
 
 .tab__content::-webkit-scrollbar
 {
-height: 10px;
-width: 10px;
-background-color: #422446;
+  height: 10px;
+  width: 10px;
+  background-color: #FFF;
 }
 
 .tab__content::-webkit-scrollbar-thumb
 {
-background-color: #FB9C70;
-border-radius: 5px;
-/*border: 2px solid #555555;*/
+  background-color: #F8143C;
+  border-radius: 5px;
 }
-
-
 /*=====================================================================*/
 
 /*codepen tabs https://codepen.io/fusco/pen/Wvzjrm*/
@@ -488,6 +486,7 @@ text-shadow: 0 0 0;
 }
 
 .tab:first-of-type:not(:last-of-type) + label {
+  margin-bottom: 20px;
 /* border-top-right-radius: 0; */
 /* border-bottom-right-radius: 0; */
 }
@@ -919,7 +918,7 @@ border-radius: 25px;
 }
 
 .tab__content h2{
-  color: #000;
+  text-transform: uppercase;;
 }
 
 .doughnutSummaryTitle{

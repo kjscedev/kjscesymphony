@@ -194,7 +194,7 @@ body {
   padding: 5px 15px;
   border-radius: 1px;
   background: rgba(0, 0, 0, 0.8);
-  color: #ddd;
+  color: #DDD;
   font-size: 17px;
   text-shadow: 0 1px 0 #000;
   text-transform: uppercase;
@@ -237,7 +237,7 @@ body {
   top:45%;
   left:50%;
   transform: translate(-50%,-50%);
-  background-image: url("../images/shield/COMPS.png");
+  background-image: url("../images/events/comps.svg");
   background-position: center ;
   background-repeat: no-repeat ;
   background-size: contain ;
@@ -245,23 +245,23 @@ body {
 
 #doughnut .dept_logo
 {
-  background-image: url("../images/shield/COMPS.png");  
+  background-image: url("../images/events/comps.svg");  
 }
 #doughnut1 .dept_logo
 {
-  background-image: url("../images/shield/IT.png");  
+  background-image: url("../images/events/it.svg");  
 }
 #doughnut2 .dept_logo
 {
-  background-image: url("../images/shield/MECH.png");  
+  background-image: url("../images/events/mech.svg");  
 }
 #doughnut3 .dept_logo
 {
-  background-image: url("../images/shield/EXTC.png");  
+  background-image: url("../images/events/extc.svg");  
 }
 #doughnut4 .dept_logo
 {
-  background-image: url("../images/shield/ETRX.png");  
+  background-image: url("../images/events/etrx.svg");  
 }
 
 

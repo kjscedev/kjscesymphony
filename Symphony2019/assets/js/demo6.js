@@ -23,16 +23,24 @@ class ShapeOverlays {
     }
   }
   open() {
+    $('#main-content').addClass('animated').addClass('slideOutUp');
     this.isOpened = true;
     this.elm.classList.add('is-opened');
     this.timeStart = Date.now();
     this.renderLoop();
+    setTimeout(function() {
+      $('.global-menu').show();
+      $('.sitemap-wrapper').show();
+    }, 1000);
   }
   close() {
+    $('.global-menu').hide();
+    $('.sitemap-wrapper').hide();
     this.isOpened = false;
     this.elm.classList.remove('is-opened');
     this.timeStart = Date.now();
     this.renderLoop();
+    $('#main-content').addClass('animated').removeClass('slideOutUp').addClass('fadeInUp');
   }
   updatePath(time) {
     const points = [];
@@ -79,6 +87,9 @@ class ShapeOverlays {
   const gNavItems = document.querySelectorAll('.global-menu__item');
   const elmOverlay = document.querySelector('.shape-overlays');
   const overlay = new ShapeOverlays(elmOverlay);
+
+  $('.global-menu').hide();
+  $('.sitemap-wrapper').hide();
 
   elmHamburger.addEventListener('click', () => {
     if (overlay.isAnimating) {

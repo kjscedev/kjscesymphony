@@ -1,0 +1,86 @@
+/***********************
+    about us
+***********************/
+body#about-us-main{
+    background-color: #ADDDFF;
+}
+
+.about-container{
+    margin: 60px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.about{
+    font-size: 26px;
+    line-height: normal;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-weight: 500;
+}
+.kjsce{
+    font-size: 34px;
+    line-height: normal;
+    margin-top: 0px;
+/*    margin-bottom: 0px;*/
+    font-weight: 700;
+    
+}
+.symphony{
+    font-size: 34px;
+    line-height: normal;
+    margin-top: 0px;
+/*    margin-bottom: 0px;*/
+    font-weight: 700;
+}
+
+.about-text{
+    font-size: 15px;
+}
+
+.content-outter-wrapper {
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.content-wrapper {
+    width: 70vw;
+    height: 65vh;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: stretch;
+}
+
+.carousel-wrapper {
+    width: 48%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.info-wrapper {
+    width: 48%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.info-wrapper .title {
+    margin-bottom: 20px;
+    letter-spacing: 1px;
+}
+
+.info-item {
+    margin-bottom: 30px;
+}
+
+.carousel__container {
+    width: 80%;
+}
+
+.about-content {
+    font-size: 1rem;
+}

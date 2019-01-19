@@ -34,29 +34,30 @@ h1,h2,h3,h4,h5,h6
   height: 100%;
 }
 /*scroll bars*/
+/*scroll bars*/
 .tab__content::-webkit-scrollbar-track
 {
   border-radius: 5px;
-  -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
-  background-color: #422446;
+  -webkit-box-shadow: inset 0 0 6px #FFF;
+  background-color: #FFF;
 }
 
 .tab__content::-webkit-scrollbar
 {
   height: 10px;
   width: 10px;
-  background-color: #422446;
+  background-color: #FFF;
 }
 
 .tab__content::-webkit-scrollbar-thumb
 {
-  background-color: #EC7263;
+  background-color: #F8143C;
   border-radius: 5px;
 }
 /*codepen tabs https://codepen.io/fusco/pen/Wvzjrm*/
 body
 {
-  background: #7B295C;
+  background: #FFE51E;
 }
 .content
 {
@@ -201,14 +202,14 @@ body
 }
 
 .tab:checked + label {
-  background-color: #9A3767;
+  background-color: #c91c39;
   cursor: default;
 }
 
 .tab + label:hover {
   -webkit-box-shadow: 0 -1px 0 #555 inset;
           box-shadow: 0 -1px 0 #555 inset;
-  background-color: #9A3767;
+  background-color: #c91c39;
 }
 
 .tab + label {
@@ -224,7 +225,7 @@ body
       -ms-flex-positive: 3;
           flex-grow: 3;
   text-align: center;
-  background-color: #7B295C;
+  background-color: #F11E42;
   -webkit-user-select: none;
      -moz-user-select: none;
       -ms-user-select: none;
@@ -427,3 +428,11 @@ body{
     flex-direction: row;
   }
 }
+
+
+/*NEEL ADDED*/
+.content{
+  pointer-events: all;
+  min-height: 0;
+}
+

@@ -3,26 +3,38 @@
   <head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta
-      name="viewport"
-      content="width=device-width, initial-scale=1.0, maximum-scale=2.0, user-scalable=yes"
-    />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=2.0, user-scalable=yes" />
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="mobile-web-app-capable" content="yes" />
     <meta name="format-detection" content="telephone=no" />
     <title>Parvaah</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
+    <link rel="stylesheet" media="screen" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.5/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/pater.css">
     <link rel="stylesheet" type="text/css" href="assets/css/demo.css" />
-    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
-    <link rel="stylesheet" href="assets/css/hamburger.css">
-    <link
-      rel="stylesheet"
-      type="text/css"
-      href="assets/css/parvaaheffects.css"
-    />
+    <link rel="stylesheet" type="text/css" href="assets/parvaheffects.css">
+    <!-- <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css"> -->
+    <link rel="stylesheet" type="text/css" href="assets/css/parvaah.css">
+    <link rel="stylesheet" href="assets/css/sitemap.css" />
+    <link rel="stylesheet" href="assets/css/index.css">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-132742730-1"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-132742730-1');
+    </script>
   </head>
   <body class="demo-6">
     <main class="main--demo-6">
-      <div class="content--demo-6">
+
+        <!-- TOP LEFT IMAGE GOES HERE, height 100px -> 50px -->
+        <div class="header">
+          <a href="./index.php"><img id="logo" src="assets/images/2019/Updated symphony logo withtheme.svg" alt=""/></a>
+        </div>
+      <div class="content source-sans regular--demo-6">
         <!-- HAMBURGER ICON -->
         <div class="hamburger hamburger--demo-6 js-hover">
           <div class="hamburger__line hamburger__line--01">
@@ -51,175 +63,59 @@
             ></div>
           </div>
         </div>
-
-        <!-- TOP LEFT IMAGE GOES HERE, height 100px -> 50px -->
-        <div class="header">
-          <img
-            src="assets/images/2019/Updated symphony logo withtheme.svg"
-            alt=""
-          />
-        </div>
-
-        <!-- MAIN CONTENT GOES HERE, height calc(100vh - 200px) -> calc(100vh - 100px) -->
-        <div class="content">
-          <div id="content_center">
-            <div id="parvaahlogo">
-              <div class="center">
-                <img src="assets/images/parvaah/Parvaah.png" />
-              </div>
+        <section id="parvaah" class="parvaah section">
+          <!-- MAIN content source-sans regular GOES HERE, height calc(100vh - 200px) -> calc(100vh - 100px) -->
+          <div class="parvaah-info-container col-md-12">
+            <div class="logo-container">
+              <img src="assets/images/logo/parvah-1.svg" alt="Parvah Logo">
+              <img src="assets/images/logo/parvah-2.svg" alt="Parvah Logo">
             </div>
-            <div class="parvaah_header">
-              <h1>About Parvaah</h1>
-              <p>
-                Parvaah is the social initiative of K. J. Somaiya College of
-                Engineering and was born out of the need to give back to the
-                society. Over the years, Parvaah has taken up various social
-                issues such as women’s safety, child welfare, and LGBT rights.
-                This year, Parvaah has taken up the cause of health and
-                sanitation, and its major goal is to make Mumbai a clean and
-                hygienic city. Many famous and distinguished personalities such
-                as Ranbir Kapoor, Maharashtra Chief Minister Devendra Fadnavis,
-                Sushant Singh Rajput, Comedian Kapil Sharma have signed the
-                undertaking and have pledged to support Parvaah in its
-                endeavours. Parvaah has inspired the younger generation to work
-                for the collective good of the society and strives to make the
-                world a better place to live.
-              </p>
+            <p class="content source-sans regular text-24">
+              The social initiative of K.J. Somaiya College of engineering, named Parvaah, works each year with a purpose of providing to the underprivileged and oppressed. This time around, Parvaah is on a mission to establish a “Zero Waste Community,” wherein constant efforts are being made for reducing, reusing and recycling the waste generated and contributing back to the society.
+            </p>
+            <a class="volunteer-button" href="https://docs.google.com/forms/d/e/1FAIpQLSfW0-zbqvDQ-PYd3YAq_c_rCpHG5yXBAnkl0W5u7-Xq5B-Wsw/viewform" class="btn">Volunteer</a>
+          </div>
+          <div class="parvaah-event">
+            <div class="parvaah-event-info">
+              <h6 class="heading source-sans black  right">SCHOOL AWARENESS CAMPAIGN</h6>
+              <p class="content source-sans regular right">It is said ‘The students of today are the future of tomorrow’. Realising this, Parvaah plans on visiting schools in Mumbai and teach the students the basic principles of a zero waste community. It’s an attempt to educate the students as well as the staff of the school about the need to go zero waste. Along with this, we also aim at transforming the schools into a zero waste locality. Instilling a sense of responsibility in the students towards managing their waste will go a long way in realising our goal of a cleaner Mumbai.</p>
             </div>
-            <hr />
-            <div class="row">
-              <h1>Beach Cleanup</h1>
-              <div class="main">
-                <div class="parvaah_img">
-                  <img src="assets/images/parvaah/beachclean.png" />
-                </div>
-                <div class="parvaah_content">
-                  <p>
-                    Under the initiative of health and sanitation, and in
-                    accordance with the government’s Swacch Bharat Abhiyan,
-                    Parvaah has undertaken the task of beautifying Versova
-                    beach. Along with long-time crusader Mr. Afroz Shah who is
-                    acknowledged as a United Nations’ Champion of the Earth,
-                    Parvaah has organized weekend cleanup drives at Versova
-                    beach. It’s an attempt to restore the pride of the beach and
-                    make it pristine again. If one wants to bring about a
-                    change, then it must come from within oneself, and this is a
-                    wonderful opportunity to restore the pride of the city and
-                    send a message to the society regarding importance of
-                    cleanliness.
-                  </p>
-                </div>
-              </div>
-              <hr />
-            </div>
-            <div class="row">
-              <h1>Secret Santa</h1>
-              <div class="main">
-                <div class="parvaah_img">
-                  <img src="assets/images/parvaah/secretsanta.png" />
-                </div>
-                <div class="parvaah_content">
-                  <p>
-                    With an aim to bring smiles on the faces of some beautiful
-                    souls, Parvaah organizes this event every year to give
-                    something back to the society. Team Parvaah celebrates
-                    Christmas with the children in shelter homes and distributes
-                    t-shirts, cakes, and other goodies. There is interaction
-                    with them to reinforce the fact that they are an integral
-                    part of the society. This year, Parvaah also plans to visit
-                    an old-age home and initiate conversations and also in the
-                    meanwhile, take valuable lessons from the older generation.
-                  </p>
-                </div>
-              </div>
-              <hr />
-            </div>
-            <div class="row">
-              <h1>Marathon</h1>
-              <div class="main">
-                <div class="parvaah_img">
-                  <img src="assets/images/parvaah/marathon.png" />
-                </div>
-                <div class="parvaah_content">
-                  <p>
-                    Parvaah plans to organize a marathon in association with a
-                    cancer research institute to raise awareness about the
-                    deadly disease. It’s an attempt to educate people about
-                    cancer and the ways to fight against it. There will also be
-                    a fund-raiser event for the cancer victims, which will be a
-                    small step towards helping the patients get cured.
-                  </p>
-                </div>
-              </div>
-              <hr />
-            </div>
-            <div class="row">
-              <h1>Awareness about electronic waste</h1>
-              <div class="main">
-                <div class="parvaah_img">
-                  <img src="assets/images/parvaah/ewaste.png" />
-                </div>
-                <div class="parvaah_content">
-                  <p>
-                    In an attempt to raise awareness about the importance of
-                    e-waste management, Parvaah has decided to install e-waste
-                    bins in the college premises. This will go a long way in the
-                    proper disposal of hazardous e-waste, which forms the major
-                    constituent of junk in our college.
-                  </p>
-                </div>
-              </div>
-              <hr />
-            </div>
-            <div>
-              <h1>Contact</h1>
-              <h3>Heet: 9664687478</h3>
+            <img src="assets/images/parvaah/school-awareness.jpg" alt="Beach Clean" class="event-image right">
+          </div>
+          <div class="parvaah-event">
+            <img src="assets/images/parvaah/plastic-collection.jpg" alt="Beach Clean" class="event-image left">
+            <div class="parvaah-event-info">
+              <h6 class="heading source-sans black  left">PLASTIC &amp; E-COLLECTION DRIVE</h6>
+              <p class="content source-sans regular left">Keeping in mind the perils caused by plastic and e-waste, Parvaah has decided to conduct a collection drive for these hazardous items. The plastic and e-waste which is collected will then be sent for recycling thus ensuring there is no harm caused towards the environment. E-waste contains heavy metals like cadmium, lead, copper, and chromium that can contaminate the environment while plastic, on the other hand, is made from toxic compounds known to cause illness, and because it is meant for durability, it is not biodegradable. Constituting a major chunk of our waste, a proper and efficient disposal of these items is the need of the hour.</p>
             </div>
           </div>
-        </div>
-        
-        <!-- SOCIAL MEDIA ICONS GO HERE, height 100px -> 50px, flex column -> flex row -->
-        <div class="socialmedia">
-          <div class="socialmedia__line1">
-            <img
-              src="assets/images/2019/social media icons/facebook.svg"
-              alt=""
-            />
-            <img
-              src="assets/images/2019/social media icons/youtube.svg"
-              alt=""
-            />
-            <img
-              src="assets/images/2019/social media icons/instagram.svg"
-              alt=""
-            />
+          <div class="parvaah-event">
+            <div class="parvaah-event-info">
+              <h6 class="heading source-sans black  right">SIGNAL SHALA</h6>
+              <p class="content source-sans regular right">Signal Shala is an innovative concept initialized by Samarth Bharat Vyaspith along with Thane Municipal Corporation, to provide education to underprivileged children living on signals in Thane. Situated in a small container below a bridge, the main aim of Signal Shala is to make these kids capable of adjusting themselves with the mainstream world. We at Parvaah plan on spreading awareness about Zero Waste with the help of these kids and also teach them simple ways to treat their waste. As signals witness a frequent number of vehicles, we aim to use this medium to make the people aware of the basic habits they can follow to effectively manage their waste. We at Parvaah believe that only when it is a collective effort of all its citizens can a city truly make great progress in achieving a goal.</p>
+            </div>
+            <img src="assets/images/parvaah/ganpati-visarjan.jpg" alt="Beach Clean" class="event-image right">
           </div>
-          <div class="socialmedia__line2">
-            <img
-              src="assets/images/2019/social media icons/twitter.svg"
-              alt=""
-            />
-            <img
-              src="assets/images/2019/social media icons/snapchat.svg"
-              alt=""
-            />
-            <img
-              src="assets/images/2019/social media icons/wordpress.svg"
-              alt=""
-            />
+          <div class="parvaah-event">
+            <img src="assets/images/parvaah/secret-santa.jpg" alt="Beach Clean" class="event-image left">
+            <div class="parvaah-event-info">
+              <h6 class="heading source-sans black  left">SECRET SANTA</h6>
+              <p class="content source-sans regular left">On the occasion of Christmas, Parvaah plans on visiting an orphanage and celebrate with the kids. To further the joy, we would also be distributing toys, goodies, and sweets among the kids. This would be followed by playing games with the children, interacting with them and ensuring that everyone has a smile on his or her face.</p>
+            </div>
           </div>
-        </div>
+        </section>
         <?php
-          require_once('./includes/global-menu.php');
-        ?>
-        <?php
-          require_once('./includes/waves.php');
+        require_once("./includes/sitemap.php")
         ?>
       </div>
     </main>
-    <script src="assets/js/jquery.min.js"></script>
-    <script src="assets/js/easings.js"></script>
-    <script src="assets/js/demo6.js"></script>
-    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
   </body>
+  <script src="assets/js/jquery.min.js"></script>
+  <script src="assets/js/easings.js"></script>
+  <script src="assets/js/demo.js"></script>
+  <script src="assets/js/demo6.js"></script>
+  <script src="assets/js/homepage.js"></script>
+  <script type="text/javascript">
+    $('#social-media').hide();
+  </script>
 </html>

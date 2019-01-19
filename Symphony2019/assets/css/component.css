@@ -247,7 +247,7 @@ ul li i {
 ul li i:before, ul li i:after {
   content: "";
   position: absolute;
-  background-color: #fff;
+  background-color: #333;
   width: 3px;
   height: 9px;
 }
@@ -409,7 +409,8 @@ ul li input[type=checkbox]:checked ~ i:after {
 }*/
 
 .main {
-  overflow: hidden;
+  overflow-x: hidden;
+  overflow-y: auto;
   display: inline-block;
   position: relative;
   left: 50%;
@@ -472,7 +473,7 @@ perspective effects (not including the modals and the overlay).
 	background-position: center ;
 	background-repeat: no-repeat ;
 	background-size: cover ;*/
-	background: #222;
+	background: #eee;
 	-webkit-perspective: 600px;
 	perspective: 600px;
 }
@@ -526,8 +527,8 @@ perspective effects (not including the modals and the overlay).
 
 /* Content styles */
 .md-content {
-	color: #fff;
-	background:#7B295C;
+	color: #333;
+	background:#fff;
 	position: relative;
 	border-radius: 3px;
 	margin: 0 auto;
@@ -538,7 +539,8 @@ perspective effects (not including the modals and the overlay).
 	padding: 0.4em;
 	text-align: center;
 	font-size: 2.4em;
-	font-weight: 300;
+  color: #F8143C;
+	font-weight: 500;
 	opacity: 0.8;
 	/*background: rgba(0,0,0,0.1);*/
 	border-radius: 3px 3px 0 0;
@@ -709,8 +711,8 @@ perspective effects (not including the modals and the overlay).
 button {
 	border: none;
 	padding: 0.6em 1.2em;
-	background: #7B295C;
-	color: #fff;
+	background: #fff;
+	color: #333;
 	font-family: 'Lato', Calibri, Arial, sans-serif;
 	font-size: 1em;
 	letter-spacing: 1px;

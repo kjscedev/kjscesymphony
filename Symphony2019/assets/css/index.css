@@ -1,0 +1,404 @@
+
+/***************************************************************
+                        FONT FACES
+***************************************************************/
+@font-face {
+  font-family: Portico;
+  src: url("../fonts/Portico/Portico\ Regular.otf") format("opentype");
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: "Source Sans";
+  src: url("../fonts/source\ sans/SourceSansPro-Black.otf") format("opentype");
+  font-weight: 900;
+}
+@font-face {
+  font-family: "Source Sans";
+  src: url("../fonts/source\ sans/SourceSansPro-Regular.otf") format("opentype");
+  font-weight: 500;
+} 
+@font-face {
+  font-family: "Source Sans";
+  src: url("../fonts/source\ sans/SourceSansPro-Light.otf") format("opentype");
+  font-weight: 300;
+}
+@font-face {
+  font-family: "Source Sans";
+  src: url("../fonts/source\ sans/SourceSansPro-Bold.otf") format("opentype");
+  font-weight: 700;
+}
+
+
+/***************************************************************
+                        GLOBAL COMPONENTS
+***************************************************************/
+h1, h2, h3, h4, h5, h6, p {
+  margin: 0;
+  padding: 0;
+}
+
+
+#logo {
+  position: absolute;
+  top: 1%;
+  z-index: 500s;
+  left: 1%;
+  height: 90px;
+}
+#home-logo {
+  position: absolute;
+  top: 1%;
+  left: 4%;
+  height: 90px; 
+}
+.letter-spacing-1 {
+  letter-spacing: 1px;
+}
+#social-media {
+  position: absolute;
+  bottom: 1%;
+  left: 2%;
+  padding: 0;
+}
+#about-us-main #social-media {
+  position: relative;
+}
+
+.carousel-nav {
+  /*font-size: 14px;*/
+}
+.carousel-item {
+  width: 100%;
+}
+
+
+
+/***************************************************************
+                        GLOBAL STYLES
+***************************************************************/
+.text-center {
+  text-align: center;
+}
+.text-center {
+  text-align: center;
+}
+.text-left {
+  text-align: left;
+}
+.portico {
+  font-family: "Portico";
+}
+.portico.regular {
+  font-weight: 500;
+}
+.color-red {
+  color: #F8143C;
+}
+.color-white {
+  color: #fff;
+}
+.color-black {
+  color: #333;
+}
+.source-sans {
+	font-family: "Source Sans";
+}
+.source-sans.black {
+	font-weight: 900;
+}
+.source-sans.light {
+	font-weight: 300;
+}
+.source-sans.regular {
+	font-weight: 500
+}
+
+.source-sans.bold {
+  font-weight: 500
+}
+.text-18 {
+
+  font-size: 12px;
+  letter-spacing: 1px;
+  /*line-height: 1em; */
+}
+.text-24 {
+  font-size: 3rem;
+  line-height: 1em;
+}
+.text-48 {
+  font-size: 2rem;
+  line-height: 0.8em;
+  margin-bottom: 5px;
+}
+.hide {
+  display: none;
+}
+
+
+/***************************************************************
+                        HEADER STYLES
+***************************************************************/
+.header-wrapper {
+  width: 100vw;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 810;
+  padding: 20px 20px;
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-between;
+}
+
+
+/***************************************************************
+                        SITEMAP STYLES
+***************************************************************/
+.sitemap-wrapper {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  overflow: auto;
+}
+
+.monster {
+  position: absolute;
+  width: 40vw;
+  top: -20%;
+}
+
+.sitemap-wrapper .content-wrapper {
+  margin-top: 15%;
+  width: 80vw;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: flex-start;
+}
+/*#about-us-main #social-media{
+  position: relative;
+}*/
+
+.content-wrapper .page-heading {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  color: white;
+  letter-spacing: 1px;
+}
+.content-wrapper .page-heading .heading {
+  font-size: 1.5em;
+  margin-bottom: 30px;
+  color: white;
+}
+
+.content-wrapper .page-heading .sub-heading {
+  font-size: 1.1em;
+  color: white;
+}
+
+.content-wrapper .page-heading .link {
+  font-size: 1em; 
+  color: white;
+}
+
+.bottom-info {
+  position: absolute;
+  bottom: 1%;
+  left: 0;
+
+  padding-left: 5vw;
+}
+
+#social-media-white.socialmedia {
+  padding: 0;
+}
+
+.icon {
+  display: inline-block;
+  margin-right: 10px;
+}
+.icon-text {
+  color: white;
+  font-size: 32px;
+}
+
+.questions {
+  color: white;
+  font-size: 38px;
+  margin-bottom: 20px;
+}
+.symphony-s {
+  width: 150px;
+}
+
+
+@media only screen and (max-width: 600px) {
+  /****************************************************************
+                            GLOBAL SECTION
+  ****************************************************************/
+  .text-48 {
+    font-size: 32px;
+  }
+  .text-24 {
+    font-size: 14px;
+  }
+
+  #logo {
+    height: 45px;
+    left:3%;
+    top: 0.5%;
+  }
+  .homepage__img img {
+    width: 80%;
+  }
+  #main-content {
+    margin-top: 5%;
+  }
+  .content-outter-wrapper {
+    width: auto;
+    margin-bottom: 50px;
+  }
+  .content-outter-wrapper .about-content {
+    font-size: 16px;
+  }
+  .content--demo-6 {
+    overflow-y: auto;
+    overflow-x: hidden;
+  }
+  .owl-carousel.owl-drag .owl-item {
+    /*margin-top: 25%;*/
+  }
+  .carousel-nav {
+    display: none;
+  }
+  .rules-text {
+    margin-bottom: 50px;
+  }
+  .homepage__titles {
+    margin-bottom: 50px;
+  }
+  .carousel__text {
+    margin-bottom: 50px;
+  }
+
+  .carousel-wrapper {
+    width: auto;
+  }
+  .main::-webkit-scrollbar-track,
+  .main::-webkit-scrollbar {
+    display: none;
+  }
+
+  #social-media a{
+    width: 24px;
+  }
+
+  /****************************************************************
+                            SITEMAP SECTION
+  ****************************************************************/
+  .content-wrapper {
+    margin-top: 0%;
+    
+  }
+  .carousel__container {
+    width: 100%;
+  }
+  .sitemap-wrapper {
+      margin-top: 0;
+  }
+
+  .sitemap-wrapper .content-wrapper{
+      margin-top: 0;
+  }
+  .monster {
+    top: -6%;
+  }
+  .bottom-info {
+    padding: 3vw;
+    bottom: 0;
+  }
+  .global-menu__item {
+    margin: 0;
+  }
+  /****************************************************************
+                              ABOUT US PAGE
+  ***************************************************************/
+  .content-wrapper {
+    height: auto;
+    flex-direction: column;
+  }
+  .info-wrapper {
+    width: auto;
+  }
+
+  /****************************************************************
+                              EVENTS PAGE
+  ****************************************************************/
+  .eventcontainer {
+    padding: 0;
+    margin: 0;
+    width: 100% ;
+    max-width: 95%;
+    height: auto;
+  }
+  .tab__content {
+    max-height: 100vh;
+    padding: 0;
+    max-height: 100%;
+    margin-bottom: 50px;
+  }
+
+/****************************************************************
+                              PARVAAH PAGE
+  ****************************************************************/
+  #parvaah .content {
+    letter-spacing: 1px;
+    font-family: UniSansRegular;
+    color: white;
+  }
+  .parvaah-info-container {
+    margin-top: 150px;
+  }
+  #parvaah.parvaah.section #social-media {
+    display: none;
+  }
+
+  /****************************************************************
+                              SHIELD PAGE
+  ****************************************************************/
+  .tab-wrap {
+    padding: 20px;
+    -web-kit-shadow: none;
+    box-shadow: none;
+  }
+
+
+  /****************************************************************
+                              REACH US
+  ****************************************************************/
+  #map {
+    width: auto;
+  }
+  .reach-us-wrapper{
+    flex-direction: column;
+  }
+  .carousel__carouselContainer {
+    height: 45%;
+  }
+  .carousel__img.text-left {
+    text-align: center;;
+  }
+  #reach-us-address {
+    max-width: 40vw;
+  }
+  .text-18 {
+    font-size: 14px;
+  }
+}

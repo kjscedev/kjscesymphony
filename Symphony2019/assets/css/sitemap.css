@@ -1,0 +1,143 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+}
+
+.sitemap__container{
+    transition: all 0.5s linear;
+    transition-delay: 0.5s;
+}
+
+.sitemap__container.is-opened{
+    transition: all 0.5s linear;
+    transition-delay: 0.5s;
+}
+
+.sitemap__container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    color: #fff;
+    pointer-events: all;
+    opacity: 0;
+}
+
+.sitemap__container.is-opened{
+    opacity: 1;
+}
+
+
+
+.sitemap__content{
+    display: flex;
+    flex-direction: row;
+}
+
+.sitemap__content__menu{
+    margin: 10px;
+}
+
+.sitemap__content--heading{
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.sitemap__content--subheading{
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.sitemap__content:nth-child(1) > .sitemap__content__menu:nth-child(2){
+    order: 99;
+}
+
+.sitemap__content:nth-child(2) > .sitemap__content__menu:nth-child(2){
+    order: -1;
+}
+
+.sitemap__content--text{
+    font-size: 12px;
+}
+
+.sitemap__content--text :nth-last-of-type(1){
+    margin-bottom: 10px;
+}
+
+@media only screen and (max-width: 600px){
+    .sitemap__content{
+        flex-direction: column;
+    }
+    .sitemap__content:nth-child(1) > .sitemap__content__menu:nth-child(2){
+        order: 0;
+    }
+    
+    .sitemap__content:nth-child(2) > .sitemap__content__menu:nth-child(2){
+        order: 0;
+    }
+}
+
+
+/*CHANGES ADDED HERE*/
+/*SITEMAP.PHP 2 WRAPPING CONTAINERS ADDED -> PAGE-HEADING-SECTION, BOTTOM-INFO-CONTENT*/
+.page-heading-section{
+    display: flex;
+    flex-direction: row;
+}
+
+.page-heading{
+    padding: 10px;
+}
+
+@media only screen and (max-width: 600px){
+
+    .socialmedia img{
+        width: 25px;
+    }
+    .sitemap-wrapper{
+        align-items: center !important;
+    }
+    .content-wrapper .page-heading .heading{
+        margin-bottom: 10px !important;
+    }
+
+    .page-heading-section{
+        flex-direction: column;
+    }
+
+    .symphony-s{
+        height: 50px !important;
+        width: 50px !important;
+        margin-right: 10px;
+    }
+    .questions {
+        font-size: 20px !important;
+        margin-bottom: 0 !important;
+    }
+    .bottom-info{
+        width: 100vw !important;
+    }
+
+    .bottom-info-content{
+        bottom: 0 !important;
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start;
+        align-items: center;
+        align-content: center;
+    }
+    .bottom-info .socialmedia {
+        flex-direction: column;
+    }
+    .global-menu_wrap{
+        position: relative;
+    }
+    .page-heading{
+        font-size: 12px;
+    }
+
+}
