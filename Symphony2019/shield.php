@@ -37,947 +37,719 @@
     <!-- MODALS -->
     <div class="md-modal md-effect-18" id="modal-1">
       <div class="md-content">
-        <h3>Antakshari</h3>
+        <h3>Shield Antakshari</h3>
         <div class="modal_content">
           <div class="main">
             <ul>
               <li>
                 <input type="checkbox" checked /> <i></i>
-                <h2>Description</h2>
-                <p>
-                  Antakshari has been one of the most entertaining games from
-                  ages unknown. The fun and frolic, blended with melodious
-                  hummings, and peppered with notorious banters, is a sight to
-                  behold. It’s a clarion call to one and all to participate in
-                  the Symphony Antakshari, and make it a memorable affair.
-                </p>
+                <h2 class="source-sans black">Description</h2>
+                <div class="accordion_content">
+                  <p class="source-sans regular">
+                    
+                    To all the music enthusiasts out there, Shield Antakshari does give an equal opportunity to students and teachers alike to come on stage and show off your lyric memorising ability and to chant it in the most melodiously accurate manner.
+                  </p>
+                </div>
               </li>
               <li>
                 <input type="checkbox" checked /> <i></i>
-                <h2>Rules</h2>
-                <ol>
-                  <li>Event Category: One team per branch</li>
-                  <li>
-                    Compulsory Participation: 2 students + 2 faculty per
-                    department (including SAHAS)
-                  </li>
-                  <li>Rolling of participants is allowed.</li>
-                </ol>
+                <h2 class="source-sans black">Rules</h2>
+                <div class="accordion_content">
+                  <h4 class="source-sans bold">General Rules</h4>
+                  <ol>
+                    <li>Event Category: One team per branch</li>
+                    <li>Compulsory Participation: 2 students + 2 faculty per department (including SAHAS)</li>
+                    <li>Rolling of participants is allowed.</li>
+                  </ol>
+                </div>
               </li>
               <li>
-                <input type="checkbox" checked /> <i></i>
-                <h2>Contact</h2>
-                <h4 id="branch">COMPS</h4>
+              <input type="checkbox" checked /> <i></i>
+              <h2 class="source-sans bold">Branch Representatives</h2>
+              <div class="accordion_content">
                 <ol>
-                  <li>Ruchi: 9920242254</li>
+                  <li><strong>MECHANICAL</strong> Kruthika Gangaraju- 8424998412 </li>
+                  <li><strong>COMPUTER</strong>  Priyanka Kale Kale- 7738211203</li>
+                  <li><strong>IT</strong> Omkar Bhosale - 98921 02225</li>
+                  <li><strong>ETRX</strong>  </li>
+                  <li><strong>EXTC</strong> Sneha - 9969057763</li>
+                  <li><strong>SAHAS</strong> Rhea Shah - 9673708383 </li>
                 </ol>
-                <h4 id="branch">IT</h4>
-                <ol>
-                  <li>Drishti: 9324787527</li>
-                </ol>
-                <h4 id="branch">EXTC</h4>
-                <ol>
-                  <li>Dhruvi: 9930629455</li>
-                </ol>
-                <h4 id="branch">ETRX</h4>
-                <ol>
-                  <li>Neerav: 8879423733</li>
-                </ol>
-                <h4 id="branch">MECH</h4>
-                <ol>
-                  <li>Swastik: 9869817011</li>
-                </ol>
-              </li>
-              <!--             <li>
-                <input type="checkbox" checked>
-                <i></i>
-                <h2>Contact</h2>
-                <ol>
-                  <li>Mechanical</li>
-                  <li>Computers</li>
-                  <li>IT</li>
-                  <li>ETRX</li>
-                  <li>EXTC</li>
-                  <li>SAHAS</li>
-                </ol>
-              </li> -->
-            </ul>
-          </div>
+              </div>
+            </li>
+          </ul>
         </div>
-        <button class="md-close">Close</button>
       </div>
+      <button class="md-close">Close</button>
     </div>
-    <div class="md-modal md-effect-18" id="modal-2">
-      <div class="md-content">
-        <h3>Art</h3>
-        <div class="modal_content">
-          <div class="main">
-            <ul>
-              <li>
-                <input type="checkbox" checked /> <i></i>
-                <h2>Description</h2>
-                <!--               <p style="font-weight: bold;">“Art isn't supposed to look nice; it is supposed to make you feel something.”</p>
-                <p style="text-align: right;">― Rainbow Rowell</p>
-                <br> -->
-                <p>
-                  They say that a painting can showcase numerous emotions, and
-                  it’s your chance to paint your heart out! Participate in the
-                  Symphony Shield Art Competition to emerge as the artistic
-                  branch of KJSCE!
+  </div>
+  <div class="md-modal md-effect-18" id="modal-2">
+    <div class="md-content">
+      <h3>Shield Art</h3>
+      <div class="modal_content">
+        <div class="main">
+          <ul>
+            <li>
+              <input type="checkbox" checked /> <i></i>
+              <h2 class="source-sans black">Description</h2>
+              <div class="accordion_content">
+                <p class="source-sans regular">
+                  
+                  “Beneath the shades and the hues lies obscure imagery that speaks for itself”
+                  To all those aspiring artists out there, if you think you don’t get enough exposure or an appropriate platform to express your art then the Shield Art might just be the right platform for you to speak with your strokes. So come pick up your brushes and pencils and change the view of that empty canvas.
                 </p>
-              </li>
-              <li>
-                <input type="checkbox" checked /> <i></i>
-                <h2>Rules</h2>
-                <ol>
-                  <li>Event category: Multiple team per branch</li>
-                  <li>Compulsory participation: 1 drawing per branch.</li>
-                  <li>
-                    Theme: Kaleidoscope of Ages. Theme is open to
-                    interpretation.
-                  </li>
-                  <li>Minimum Size of the drawing: A4</li>
-                  <li>
-                    The drawings should be submitted by 1st February, 2018.and
-                    to be collected within 2 weeks after Symphony.
-                  </li>
-                  <li>1 person can submit maximum upto 2 drawings</li>
-                </ol>
-              </li>
-              <li>
-                <input type="checkbox" checked /> <i></i>
-                <h2>Contact</h2>
-                <h4 id="branch">COMPS</h4>
-                <ol>
-                  <li>Shivanee: 8097806372</li>
-                </ol>
-                <h4 id="branch">IT</h4>
-                <ol>
-                  <li>Jyeshtha: 9167356748</li>
-                </ol>
-                <h4 id="branch">EXTC</h4>
-                <ol>
-                  <li>Arjun: 7678066756</li>
-                </ol>
-                <h4 id="branch">ETRX</h4>
-                <ol>
-                  <li>Dhruvish: 9167457581</li>
-                </ol>
-                <h4 id="branch">MECH</h4>
-                <ol>
-                  <li>Chirag: 9167936309</li>
-                </ol>
-              </li>
-              <!--             <li>
-                <input type="checkbox" checked>
-                <i></i>
-                <h2>Contact</h2>
-                <ol>
-                  <li>Mechanical</li>
-                  <li>Computers</li>
-                  <li>IT</li>
-                  <li>ETRX</li>
-                  <li>EXTC</li>
-                  <li>SAHAS</li>
-                </ol>
-              </li> -->
-            </ul>
-          </div>
-        </div>
-        <button class="md-close">Close</button>
-      </div>
-    </div>
-    <div class="md-modal md-effect-18" id="modal-3">
-      <div class="md-content">
-        <h3>Dance</h3>
-        <div class="modal_content">
-          <div class="main">
-            <ul>
-              <li>
-                <input type="checkbox" checked /> <i></i>
-                <h2>Description</h2>
-                <!--               <p style="font-weight: bold;">“Dance is the hidden language of the soul” </p>
-                <p style="text-align: right;">― Martha Graham</p> -->
-                <p>
-                  Put in those extra yards, stretch yourselves to the limit, and
-                  move gracefully, to win the bragging rights at the Symphony
-                  Shield Dance. Will Comps defend their title, or is there a
-                  twist in the tale? Exhibit your fine moves, and take your
-                  branch closer to the finish line!
-                </p>
-              </li>
-              <li>
-                <input type="checkbox" checked /> <i></i>
-                <h2>Rules</h2>
-                <ol>
-                  <li>Event Category: One team per branch</li>
-                  <li>
-                    Participation compulsory from each year : 2 FYs, 2 SYs, 2
-                    TYs are compulsory.
-                  </li>
-                  <li>Number of Members per team: 7-15 members</li>
-                  <li>Time limit → 5-12 mins</li>
-                  <li>
-                    A face off which will consist of Solo performance of all
-                    branches together will happen at the end of all group
-                    performances.
-                  </li>
-                  <li>
-                    Individual dance → 1 minute + All 5 branch individual
-                    performance together → 1 min.
-                  </li>
-                </ol>
-              </li>
-              <li>
-                <input type="checkbox" checked /> <i></i>
-                <h2>Contact</h2>
-                <h4 id="branch">COMPS</h4>
-                <ol>
-                  <li>Lakshmi: 9833615877</li>
-                </ol>
-                <h4 id="branch">IT</h4>
-                <ol>
-                  <li>Viraj: 9821548766</li>
-                </ol>
-                <h4 id="branch">EXTC</h4>
-                <ol>
-                  <li>Anukriti: 9769657737</li>
-                </ol>
-                <h4 id="branch">ETRX</h4>
-                <ol>
-                  <li>Sunitha: 7506035790</li>
-                </ol>
-                <h4 id="branch">MECH</h4>
-                <ol>
-                  <li>Anand: 9029723681</li>
-                </ol>
-              </li>
-              <!--             <li>
-                <input type="checkbox" checked>
-                <i></i>
-                <h2>Contact</h2>
-                <ol>
-                  <li>Mechanical</li>
-                  <li>Computers</li>
-                  <li>IT</li>
-                  <li>ETRX</li>
-                  <li>EXTC</li>
-                  <li>SAHAS</li>
-                </ol>
-              </li> -->
-            </ul>
-          </div>
-        </div>
-        <button class="md-close">Close</button>
-      </div>
-    </div>
-    <div class="md-modal md-effect-18" id="modal-4">
-      <div class="md-content">
-        <h3>Debate</h3>
-        <div class="modal_content">
-          <div class="main">
-            <ul>
-              <li>
-                <input type="checkbox" checked /> <i></i>
-                <h2>Description</h2>
-                <!--               <p style="font-weight: bold;">“Don't raise your voice, improve your argument."</p>
-                <p style="text-align: right;"> ― Desmond Tutu</p> -->
-                <p>
-                  It’s time to voice your ideas, since your opinion matters at
-                  the Symphony Shield Debate. So, come up with astute rebuttals
-                  to counter the exasperating farrago of distortions and
-                  misrepresentations and convince the House to believe in you!
-                  Let your words make the loudest noise!
-                </p>
-              </li>
-              <li>
-                <input type="checkbox" checked /> <i></i>
-                <h2>Rules</h2>
-                <ol>
-                  <li>Event category: Multiple team per branch</li>
-                  <li>Number of members per team: 6</li>
-                  <li>Compulsory participation: One FE, SE, TE and BE.</li>
-                  <li>
-                    Others can also participate, provided both the partners are
-                    from same branch. Therefore there can be any number of
-                    participants from one branch
-                  </li>
-                  <li>Elimination rounds will be a week prior to Symphony.</li>
-                  <li>Semis and Finals will be held during Symphony</li>
-                </ol>
-              </li>
-              <li>
-                <input type="checkbox" checked /> <i></i>
-                <h2>Contact</h2>
-                <h4 id="branch">COMPS</h4>
-                <ol>
-                  <li>Avinash: 9619588201</li>
-                </ol>
-                <h4 id="branch">IT</h4>
-                <ol>
-                  <li>Niyati: 98f7ffe045097</li>
-                </ol>
-                <h4 id="branch">EXTC</h4>
-                <ol>
-                  <li>Leander: 7977120736</li>
-                </ol>
-                <h4 id="branch">ETRX</h4>
-                <ol>
-                  <li>Mansi: 8390416222</li>
-                </ol>
-                <h4 id="branch">MECH</h4>
-                <ol>
-                  <li>Hanoz: 9820637575</li>
-                </ol>
-              </li>
-              <!--             <li>
-                <input type="checkbox" checked>
-                <i></i>
-                <h2>Contact</h2>
-                <ol>
-                  <li>Mechanical</li>
-                  <li>Computers</li>
-                  <li>IT</li>
-                  <li>ETRX</li>
-                  <li>EXTC</li>
-                  <li>SAHAS</li>
-                </ol>
-              </li> -->
-            </ul>
-          </div>
-        </div>
-        <button class="md-close">Close</button>
-      </div>
-    </div>
-    <div class="md-modal md-effect-18" id="modal-5">
-      <div class="md-content">
-        <h3>Drama</h3>
-        <div class="modal_content">
-          <div class="main">
-            <ul>
-              <li>
-                <input type="checkbox" checked /> <i></i>
-                <h2>Description</h2>
-                <!--               <p style="font-weight: bold;">“Act well your part; there all the honour lies.” </p>
-                <p style="text-align: right;">― Alexander Pope, An Essay on Man</p> -->
-                <p>
-                  Make the audience resonate with your emotions, and let them be
-                  enthralled by the depth of your acting. Celebrate the entire
-                  spectrum of emotions in its purest form. Compete in the
-                  Symphony Shield Drama, and lead your branch to glory!
-                </p>
-              </li>
-              <li>
-                <input type="checkbox" checked /> <i></i>
-                <h2>Rules</h2>
-                <ol>
-                  <li>Event category: One team per branch</li>
-                  <li>Number of members per team: 7-12 members</li>
-                  <li>Compulsory participation: 2 from FY, SY and TY each</li>
-                  <li>
-                    Time limit: Maximum 16 minutes which includes 1 minute for
-                    setup and clearance (inclusive).
-                  </li>
-                  <li>
-                    Theme: Kaleidoscope of Ages. Theme is open to
-                    interpretation.
-                  </li>
-                  <li>
-                    Three mics will be provided. Props will not be provided.
-                  </li>
-                  <li>
-                    Only one non-participating assistance will be allowed at the
-                    music controlling console.
-                  </li>
-                  <li>
-                    Use of props, script and music should be notified by 1st
-                    February 2018.
-                  </li>
-                  <li>Illustrations are not allowed.</li>
-                </ol>
-              </li>
-              <li>
-                <input type="checkbox" checked /> <i></i>
-                <h2>Contact</h2>
-                <h4 id="branch">COMPS</h4>
-                <ol>
-                  <li>Ninad: 9769360543</li>
-                </ol>
-                <h4 id="branch">IT</h4>
-                <ol>
-                  <li>Aman: 9619860086</li>
-                </ol>
-                <h4 id="branch">EXTC</h4>
-                <ol>
-                  <li>Surya: 9987016299</li>
-                </ol>
-                <h4 id="branch">ETRX</h4>
-                <ol>
-                  <li>Deep: 7303016866</li>
-                </ol>
-                <h4 id="branch">MECH</h4>
-                <ol>
-                  <li>Taher: 9967202029</li>
-                </ol>
-              </li>
-              <!--             <li>
-                <input type="checkbox" checked>
-                <i></i>
-                <h2>Contact</h2>
-                <ol>
-                  <li>Mechanical</li>
-                  <li>Computers</li>
-                  <li>IT</li>
-                  <li>ETRX</li>
-                  <li>EXTC</li>
-                  <li>SAHAS</li>
-                </ol>
-              </li> -->
-            </ul>
-          </div>
-        </div>
-        <button class="md-close">Close</button>
-      </div>
-    </div>
-    <div class="md-modal md-effect-18" id="modal-6">
-      <div class="md-content">
-        <h3>Music</h3>
-        <div class="modal_content">
-          <div class="main">
-            <ul>
-              <li>
-                <input type="checkbox" checked /> <i></i>
-                <h2>Description</h2>
-                <!--               <p style="font-weight: bold;">“Ah, music. A magic beyond all we do here!”  </p>
-                <p style="text-align: right;">― J.K. Rowling</p> -->
-                <p>
-                  Mesmerise and enchant the crowd by churning out a musical
-                  performance that will be etched in the history of Symphony.
-                  Give your branch one more reason to root for you, and make
-                  others swoon to your tunes.
-                </p>
-              </li>
-              <li>
-                <input type="checkbox" checked /> <i></i>
-                <h2>Rules</h2>
-                <ol>
-                  <li>Event category: One team per branch</li>
-                  <li>Number of members per team: 3-7. Rotation is allowed</li>
-                  <li>
-                    Compulsory participation: A team can comprise of members
-                    from any year
-                  </li>
-                  <li>
-                    Time limit: 20 minutes including sound check, instruments
-                    tuning etc.
-                  </li>
-                  <li>
-                    Only basic mic, speakers and a drum kit will be provided to
-                    the participants. Amplifiers, instruments, etc, to be
-                    brought on your own.
-                  </li>
-                  <li>Instrumental for 1 min is necessary</li>
-                </ol>
-              </li>
-              <li>
-                <input type="checkbox" checked /> <i></i>
-                <h2>Contact</h2>
-                <h4 id="branch">COMPS</h4>
-                <ol>
-                  <li>Akshay: 7045413968</li>
-                </ol>
-                <h4 id="branch">>IT</h4>
-                <ol>
-                  <li>Dipen: 9833455766</li>
-                </ol>
-                <h4 id="branch">EXTC</h4>
-                <ol>
-                  <li>Vinayak: 8237289236</li>
-                </ol>
-                <h4 id="branch">ETRX</h4>
-                <ol>
-                  <li>Dhaval: 8369068700</li>
-                </ol>
-                <h4 id="branch">MECH</h4>
-                <ol>
-                  <li>Rishabh: 8291343328</li>
-                </ol>
-              </li>
-              <!--             <li>
-                <input type="checkbox" checked>
-                <i></i>
-                <h2>Contact</h2>
-                <ol>
-                  <li>Mechanical</li>
-                  <li>Computers</li>
-                  <li>IT</li>
-                  <li>ETRX</li>
-                  <li>EXTC</li>
-                  <li>SAHAS</li>
-                </ol>
-              </li> -->
-            </ul>
-          </div>
-        </div>
-        <button class="md-close">Close</button>
-      </div>
-    </div>
-    <div class="md-modal md-effect-18" id="modal-7">
-      <div class="md-content">
-        <h3>Photography</h3>
-        <div class="modal_content">
-          <div class="main">
-            <ul>
-              <li>
-                <input type="checkbox" checked /> <i></i>
-                <h2>Description</h2>
-                <!--               <p style="font-weight: bold;">“The artist sees what others only catch a glimpse of.”</p>
-                <p style="text-align: right;">― Leonardo Da Vinci</p> -->
-                <p>
-                  A moment captured, is a moment glorified! A vision for detail,
-                  and the patience to wait for the moment, is the blend that
-                  makes a great photographer! Bring out the shutterbug in
-                  yourself at the Symphony Shield Photography, and let your
-                  cameras catch the moment in a flash!
-                </p>
-              </li>
-              <li>
-                <input type="checkbox" checked /> <i></i>
-                <h2>Rules</h2>
-                <ol>
-                  <li>Event category: Multiple team per branch</li>
-                  <li>
-                    Compulsory participation: 1 photo per branch per year.
-                  </li>
-                  <li>
-                    The participants must get their own digital cameras. (Phone
-                    Cameras are allowed)
-                  </li>
-                  <li>
-                    Theme will be disclosed on the day of the event.The
-                    photographs should be submitted on the end of the day
-                    itself.
-                  </li>
-                  <li>No time stamps</li>
-                  <li>
-                    Basic editing is allowed. (Only Contrast, Brightness and
-                    Saturation can be adjusted during post effects
-                  </li>
-                  <li>
-                    Each photo should contain a caption of max 200 characters
-                  </li>
-                  <li>1 person can submit maximum upto 2 photographs.</li>
-                </ol>
-              </li>
-              <li>
-                <input type="checkbox" checked /> <i></i>
-                <h2>Contact</h2>
-                <h4 id="branch">COMPS</h4>
-                <ol>
-                  <li>Mihir: 8898391245</li>
-                </ol>
-                <h4 id="branch">IT</h4>
-                <ol>
-                  <li>Jash: 7506653513</li>
-                </ol>
-                <h4 id="branch">EXTC</h4>
-                <ol>
-                  <li>Praneeth: 9892309230</li>
-                </ol>
-                <h4 id="branch">ETRX</h4>
-                <ol>
-                  <li>Deep: 7303016866</li>
-                </ol>
-                <h4 id="branch">MECH</h4>
-                <ol>
-                  <li>Kunal: 8286482231</li>
-                </ol>
-              </li>
-              <!--             <li>
-                <input type="checkbox" checked>
-                <i></i>
-                <h2>Contact</h2>
-                <ol>
-                  <li>Mechanical</li>
-                  <li>Computers</li>
-                  <li>IT</li>
-                  <li>ETRX</li>
-                  <li>EXTC</li>
-                  <li>SAHAS</li>
-                </ol>
-              </li> -->
-            </ul>
-          </div>
-        </div>
-        <button class="md-close">Close</button>
-      </div>
-    </div>
-    <div class="md-modal md-effect-18" id="modal-8">
-      <div class="md-content">
-        <h3>Quiz</h3>
-        <div class="modal_content">
-          <div class="main">
-            <ul>
-              <li>
-                <input type="checkbox" checked /> <i></i>
-                <h2>Description</h2>
-                <p>
-                  Tickle your brain cells, and help your branch move closer to
-                  ultimate glory by participating at the Symphony Shield Quiz.
-                  Battle it out, and showcase your wit to emerge as the winners.
-                  So, Tala laga diya jaaye?
-                </p>
-              </li>
-              <li>
-                <input type="checkbox" checked /> <i></i>
-                <h2>Rules</h2>
+              </div>
+            </li>
+            <li>
+              <input type="checkbox" checked /> <i></i>
+              <h2 class="source-sans black">Rules</h2>
+              <div class="accordion_content">
+                <h4 class="source-sans bold">General Rules</h4>
                 <ol>
                   <li>Event category: Multiple teams per branch</li>
-                  <li>Number of members per team: 2</li>
-                  <li>Compulsory participation: One FE, SE, TE and BE.</li>
-                  <li>
-                    Others can also participate, provided both the partners are
-                    from same branch. Therefore there can be any number of
-                    participants from one branch.
-                  </li>
-                  <li>Elimination will occur a week prior to Symphony.</li>
-                  <li>Semis and Finals will happen on the day of Symphony.</li>
+                  <li>Compulsory participation: 1 drawing per branch.</li>
+                  <li>Theme:  A Warped Reality. The theme is open to interpretation.</li>
+                  <li>Participants shall be presented with objects which they will be required to make a 2D artwork incorporating all of the objects based using one or more of the media prescribed.</li>
+                  <li>Mediums Required: Watercolours, poster colours, acrylic paint, black marker,
+                  pencil, charcoal pencils, non-water soluble colour pencils.</li>
+                  <li>A3 size paper will be provided. </li>
                 </ol>
-              </li>
-              <li>
-                <input type="checkbox" checked /> <i></i>
-                <h2>Contact</h2>
-                <h4 id="branch">COMPS</h4>
-                <ol>
-                  <li>Rishik: 8888821113</li>
-                </ol>
-                <h4 id="branch">IT</h4>
-                <ol>
-                  <li>Stuti: 8108287952</li>
-                </ol>
-                <h4 id="branch">EXTC</h4>
-                <ol>
-                  <li>Aditi: 8275868906</li>
-                </ol>
-                <h4 id="branch">ETRX</h4>
-                <ol>
-                  <li>Chirayu: 9167266198</li>
-                </ol>
-                <h4 id="branch">MECH</h4>
-                <ol>
-                  <li>Kushal: 98f7ffe000715</li>
-                </ol>
-              </li>
-              <!--             <li>
-                <input type="checkbox" checked>
-                <i></i>
-                <h2>Contact</h2>
-                <ol>
-                  <li>Mechanical</li>
-                  <li>Computers</li>
-                  <li>IT</li>
-                  <li>ETRX</li>
-                  <li>EXTC</li>
-                  <li>SAHAS</li>
-                </ol>
-              </li> -->
-            </ul>
-          </div>
-        </div>
-        <button class="md-close">Close</button>
+              </div>
+            </li>
+            <li>
+            <input type="checkbox" checked /> <i></i>
+            <h2 class="source-sans bold">Branch Representatives</h2>
+            <div class="accordion_content">
+              <ol>
+                <li><strong>MECHANICAL</strong> Komal Sajwan - 9004486654</li>
+                <li><strong>COMPUTER</strong> Vijay T. - 8433658244</li>
+                <li><strong>IT</strong> Dhairya Singhvi - 9757496271</li>
+                <li><strong>ETRX</strong>  Nirav Shah - 9699196399</li>
+                <li><strong>EXTC</strong> Dharmil Shah - 9930311291</li>
+              </ol>
+            </div>
+          </li>
+        </ul>
       </div>
     </div>
-    <div class="md-modal md-effect-18" id="modal-9">
-      <div class="md-content">
-        <h3>Jamboree</h3>
-        <div class="modal_content">
-          <div class="main">
-            <ul>
-              <li>
-                <input type="checkbox" checked /> <i></i>
-                <h2>Description</h2>
-                <p>
-                  Explore the sprawling campus, unlock the tricky clues, and
-                  along with your Dr. Watson, embark on an exciting journey
-                  filled with many thrills and spills at the Symphony Jamboree
-                  to help your branch move closer to the lucrative Shield!
-                </p>
-              </li>
-              <li>
-                <input type="checkbox" checked /> <i></i>
-                <h2>Rules</h2>
-                <ol>
-                  <li>Event Category: One team per Branch</li>
-                  <li>Compulsory Participation: 2 FYs, 2 SYs and 1 TY each.</li>
-                  <li>Team should contain : 6 members per team.</li>
-                  <li>Rotation of participants is not allowed</li>
-                  <li>
-                    The details of the event will be disclosed on the day.This
-                    event will start from Day 1 of Symphony and continue up to
-                    the Shield Closing.
-                  </li>
-                </ol>
-              </li>
-              <li>
-                <input type="checkbox" checked /> <i></i>
-                <h2>Contact</h2>
-                <h4 id="branch">COMPS</h4>
-                <ol>
-                  <li>Ruchi: 9920242254</li>
-                </ol>
-                <h4 id="branch">IT</h4>
-                <ol>
-                  <li>Harshita: 8652525236</li>
-                </ol>
-                <h4 id="branch">EXTC</h4>
-                <ol>
-                  <li>Sneha: 9969057763</li>
-                </ol>
-                <h4 id="branch">ETRX</h4>
-                <ol>
-                  <li>Neerav: 8879423733</li>
-                </ol>
-                <h4 id="branch">MECH</h4>
-                <ol>
-                  <li>Swastik: 9869817011</li>
-                </ol>
-              </li>
-              <!--             <li>
-                <input type="checkbox" checked>
-                <i></i>
-                <h2>Contact</h2>
-                <ol>
-                  <li>Mechanical</li>
-                  <li>Computers</li>
-                  <li>IT</li>
-                  <li>ETRX</li>
-                  <li>EXTC</li>
-                  <li>SAHAS</li>
-                </ol>
-              </li> -->
-            </ul>
-          </div>
-        </div>
-        <button class="md-close">Close</button>
+    <button class="md-close">Close</button>
+  </div>
+</div>
+<div class="md-modal md-effect-18" id="modal-3">
+  <div class="md-content">
+    <h3>Shield Dance</h3>
+    <div class="modal_content">
+      <div class="main">
+        <ul>
+          <li>
+            <input type="checkbox" checked /> <i></i>
+            <h2 class="source-sans black">Description</h2>
+            <div class="accordion_content">
+              <p class="source-sans regular">
+                “Amidst the grooves and flips, lies a form of art not understood by many”
+                Your moves and the way you glide will define your ability on the stage. The art of dance does not discriminate between anything, as it is the feeling that can be expressed without even saying a word. Do you have what it takes to express this art? And can you take your branch to the top with that?
+              </p>
+            </div>
+          </li>
+          <li>
+            <input type="checkbox" checked /> <i></i>
+            <h2 class="source-sans black">Rules</h2>
+            <div class="accordion_content">
+              <h4 class="source-sans bold">General Rules</h4>
+              <ol>
+                <li>Event Category: One team per branch.</li>
+                <li>Participation compulsory from each year: 2 FYs, 2 SYs, 2 TYs, and 1 LY are compulsory.</li>
+                <li>Number of Members per team: 7-15 members. No rotation.</li>
+                <li>Time limit → 5-12 mins.</li>
+                <li>A face-off which will consist of Solo performance of all branches will be following all group performances.Individual dance → 1 minute per branch.</li>
+                <li>Both the group performance as well as face-off will be evaluated while deciding the winning branch.</li>
+              </ol>
+            </div>
+          </li>
+          <li>
+          <input type="checkbox" checked /> <i></i>
+          <h2 class="source-sans bold">Branch Representatives</h2>
+          <div class="accordion_content">
+            <ol>
+              <li><strong>MECHANICAL</strong>  Aditya- 8080624560</li>
+              <li><strong>COMPUTER</strong> Ruthu - 8796102559/li>
+                <li><strong>IT</strong>  Payal- 99303 65606</li>
+                <li><strong>ETRX</strong> Jas Zaveri - 8898102451 / 9930609484</li>
+                <li><strong>EXTC</strong> Aditya Azad - 7303134443</li>
+              </ol>
+            </div>
+          </li>
+        </ul>
       </div>
     </div>
-    <div class="container" >
-      <main class="main--demo-6">
-        <div class="content--demo-6">
-          <!-- HAMBURGER ICON -->
-          <div class="hamburger hamburger--demo-6 js-hover">
-            <div class="hamburger__line hamburger__line--01">
-              <div class="hamburger__line-in hamburger__line-in--01 hamburger__line-in--demo-5"></div>
-            </div>
-            <div class="hamburger__line hamburger__line--02">
-              <div class="hamburger__line-in hamburger__line-in--02 hamburger__line-in--demo-5"></div>
-            </div>
-            <div class="hamburger__line hamburger__line--03">
-              <div class="hamburger__line-in hamburger__line-in--03 hamburger__line-in--demo-5"></div>
-            </div>
-            <div class="hamburger__line hamburger__line--cross01">
-              <div class="hamburger__line-in hamburger__line-in--cross01 hamburger__line-in--demo-5"></div>
-            </div>
-            <div class="hamburger__line hamburger__line--cross02">
-              <div class="hamburger__line-in hamburger__line-in--cross02 hamburger__line-in--demo-5"></div>
-            </div>
-          </div>
-          <!-- TOP LEFT IMAGE GOES HERE, height 100px -> 50px -->
-          <div class="header">
-            <a href=" index.php"><img id="logo" src="assets/images/2019/Updated symphony logo withtheme.svg" alt=""/></a>
-          </div>
-          <!-- MAIN CONTENT GOES HERE, height calc(100vh - 200px) -> calc(100vh - 100px) -->
-          <div class="eventsbg" id="main-content">
-            <div class="eventcontainer">
-              <div class="tab-wrap">
-                <!-- active tab on page load gets checked attribute -->
-                <!--       <input type="radio" id="tab1" name="tabGroup1" class="tab" checked>
-                <label for="tab1">About</label> -->
-                <input type="radio" id="tab3" name="tabGroup1" class="tab" checked />
-                <label  class="source-sans black" for="tab3">Overview</label>
-                <input type="radio" id="tab2" name="tabGroup1" class="tab" />
-                <label class="source-sans black" for="tab2">Events</label>
-                <!--       <input type="radio" id="tab4" name="tabGroup1" class="tab">
-                <label for="tab4">Informals</label>
+    <button class="md-close">Close</button>
+  </div>
+</div>
+<div class="md-modal md-effect-18" id="modal-4">
+  <div class="md-content">
+    <h3>Shield Debate</h3>
+    <div class="modal_content">
+      <div class="main">
+        <ul>
+          <li>
+            <input type="checkbox" checked /> <i></i>
+            <h2 class="source-sans black">Description</h2>
+            <div class="accordion_content">
+              <p class="source-sans regular">
                 
-                <input type="radio" id="tab5" name="tabGroup1" class="tab">
-                <label for="tab5">Workshops</label> -->
-                <!-- TAB CONTENT -->
-                <!-- FIRST TAB -->
-                <div class="tab__content">
-                  <p>
-                    The <strong>KJSCE Cultural Shield</strong> is the cultural
-                    leg of the year-long inter-departmental competition - The
-                    KJSCE Shield. Being the final lap in the race to attain
-                    bragging rights among the 5 departments of the college,
-                    these events induce some nail biting and nerve wracking
-                    moments among all the participants and attendees. A make or
-                    break hour for the departments, one is sure to witness some
-                    prodigious performances as all the departments put their
-                    best foot forward!
-                    <br><br>
-                  </p>
-                  <div class="scorecard" id="doughnut">
-                    <h2 class="source-sans black color-red">COMPS</h2>
-                    <div id="doughnutChart" class="chart"></div>
-                    <div class="dept_logo"></div>
-                  </div>
-                  <div class="scorecard" id="doughnut1">
-                    <h2 class="source-sans black color-red">IT</h2>
-                    <div id="doughnutChart1" class="chart"></div>
-                    <div class="dept_logo"></div>
-                  </div>
-                  <div class="scorecard" id="doughnut2">
-                    <h2 class="source-sans black color-red">Mech</h2>
-                    <div id="doughnutChart2" class="chart"></div>
-                    <div class="dept_logo"></div>
-                  </div>
-                  <div class="scorecard" id="doughnut3">
-                    <h2 class="source-sans black color-red">Extc</h2>
-                    <div id="doughnutChart3" class="chart"></div>
-                    <div class="dept_logo"></div>
-                  </div>
-                  <div class="scorecard" id="doughnut4">
-                    <h2 class="source-sans black color-red" x>Etrx</h2>
-                    <div id="doughnutChart4" class="chart"></div>
-                    <div class="dept_logo"></div>
-                  </div>
+                “A debate is not an argument on facts, but a battle on ideologies”
+                Don’t settle for a fact just because you don’t know the answer, question it, and raise it until the answer is not attained. Come shoot your rhetorics and     knowledge alike and show your ability to win an argument.
+              </p>
+            </div>
+          </li>
+          <li>
+            <input type="checkbox" checked /> <i></i>
+            <h2 class="source-sans black">Rules</h2>
+            <div class="accordion_content">
+              <h4 class="source-sans bold">General Rules</h4>
+              <ol>
+                <li>Event category: Multiple teams per branch</li>
+                <li>Number of members per team: 6 </li>
+                <li>Compulsory participation: One FE, SE, TE, and BE.</li>
+                <li>Others can also participate, provided both the partners are from the same branch. Therefore there can be any number of participants from one branch.</li>
+                <li>Elimination rounds will be a week prior to Symphony</li>
+                <li>Semis and Finals will be held during Symphony.</li>
+              </ol>
+            </div>
+          </li>
+          <li>
+            <input type="checkbox" checked /> <i></i>
+            <h2 class="source-sans black">Branch Representatives</h2>
+            <div class="accordion_content">
+              <ol>
+                <li><strong>MECHANICAL</strong> Saurabh - 7710927960</li>
+                <li><strong>COMPUTER</strong>Raj- 8655127525</li>
+                <li><strong>IT</strong> Aaliyah- 9833355631</li>
+                <li><strong>ETRX</strong> Atharva- 9619990279 </li>
+                <li><strong>EXTC</strong> </li>
+              </ol>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <button class="md-close">Close</button>
+  </div>
+</div>
+<div class="md-modal md-effect-18" id="modal-5">
+  <div class="md-content">
+    <h3>Shield Drama</h3>
+    <div class="modal_content">
+      <div class="main">
+        <ul>
+          <li>
+            <input type="checkbox" checked /> <i></i>
+            <h2 class="source-sans black">Description</h2>
+            <div class="accordion_content">
+              <p class="source-sans regular">
+                “An expression can speak what a thousand words cannot.”
+                Express the power of expressions and harness all of them under the light of glamour. Come and showcase all your dramatic skills on the stage, as it is the stage where all the drama is entertained.
+              </p>
+            </div>
+          </li>
+          <li>
+            <input type="checkbox" checked /> <i></i>
+            <h2 class="source-sans black">Rules</h2>
+            <div class="accordion_content">
+              <h4 class="source-sans bold">General Rules</h4>
+              <ol>
+                <li>Event Category: One team per branch.</li>
+                <li>Number of members per team: 7-12 members.</li>
+                <li>Compulsory participation: 2 from FY, SY, and TY each .</li>
+                <li>Time limit: Maximum 17 minutes which includes setup and clearance.</li>
+                <li>Theme: A Warped Reality. The theme is open to interpretation.</li>
+                <li>Three mics will be provided. Props will not be provided.</li>
+                <li>Only one non-participating assistance will be allowed at the music controlling console.</li>
+                <li>Use of props, script, and music should be notified by 1st February 2019. </li>
+                <li>Illustrations are not allowed.</li>
+              </ol>
+            </div>
+          </li>
+          <li>
+            <input type="checkbox" checked /> <i></i>
+            <h2 class="source-sans black">Branch Representatives</h2>
+            <div class="accordion_content">
+              <ol>
+                <li><strong>MECHANICAL</strong>  Dheer Kachalia - 9869576780 </li>
+                <li><strong>COMPUTER</strong>  Soham Katkar - 7719025482 </li>
+                <li><strong>IT</strong> Kunal Bohra - 9920195193</li>
+                <li><strong>ETRX</strong> Mehul Doshi - 8080084179</li>
+                <li><strong>EXTC</strong> Atharva Chaturvedi - 8097073592</li>
+              </ol>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <button class="md-close">Close</button>
+  </div>
+</div>
+<div class="md-modal md-effect-18" id="modal-6">
+  <div class="md-content">
+    <h3>Shield Music</h3>
+    <div class="modal_content">
+      <div class="main">
+        <ul>
+          <li>
+            <input type="checkbox" checked /> <i></i>
+            <h2 class="source-sans black">Description</h2>
+            <div class="accordion_content">
+              <p class="source-sans regular">
+                
+                “Strings and beats speak a language like no other”
+                All the metal maniacs, the rock fanatics, and the country fiends, shield music is a vivid stage that purely praises and nurtures talent. So do you think you can be the next Marley or Jovi? Then come prove it on the stage of this saga.
+              </p>
+            </div>
+          </li>
+          <li>
+            <input type="checkbox" checked /> <i></i>
+            <h2 class="source-sans black">Rules</h2>
+            <div class="accordion_content">
+              <h4 class="source-sans bold">General Rules</h4>
+              <ol>
+                <li>Event Category: One team per branch.</li>
+                <li>The number of members per team: 3-7. Rotation is allowed.</li>
+                <li>Compulsory participation: 1 from FY, SY, and TY each.</li>
+                <li>Time limit: 20 minutes including sound check, instruments tuning etc.</li>
+                <li>Only basic mic, speakers and a drum kit will be provided to the participants. Amplifiers, instruments, etc, to be brought on your own.</li>
+                <li>Instrumental for 1 min is necessary.</li>
+              </ol>
+            </div>
+          </li>
+          <li>
+            <input type="checkbox" checked /> <i></i>
+            <h2 class="source-sans black">Branch Representatives</h2>
+            <div class="accordion_content">
+              <ol>
+                <li><strong>MECHANICAL</strong>  Rishabh - 8291348838</li>
+                <li><strong>COMPUTER</strong> Rahil - 9167535573 </li>
+                <li><strong>IT</strong> Dhairya - 9969152935</li>
+                <li><strong>ETRX</strong>  Shikhar - 7506055883</li>
+                <li><strong>EXTC</strong>Sankirthna - 9082693548</li>
+              </ol>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <button class="md-close">Close</button>
+  </div>
+</div>
+<div class="md-modal md-effect-18" id="modal-7">
+  <div class="md-content">
+    <h3>Shield Photography</h3>
+    <div class="modal_content">
+      <div class="main">
+        <ul>
+          <li>
+            <input type="checkbox" checked /> <i></i>
+            <h2 class="source-sans black">Description</h2>
+            <div class="accordion_content">
+              <p class="source-sans regular">
+                
+                “A photo not only captures a memory but also creates one.”
+                Is your camera equipment arsenal bigger than any other, do you see every scene in a frame, and can you not resist to capture the perfect lighting, then we at Shield Photography await to showcase your talent on a bigger platform. So reduce the ISO and increase the shutter speed to increase the chances of your branch to get on top.
+              </p>
+            </div>
+          </li>
+          <li>
+            <input type="checkbox" checked /> <i></i>
+            <h2 class="source-sans black">Rules</h2>
+            <div class="accordion_content">
+              <h4 class="source-sans bold">General Rules</h4>
+              <ol>
+                <li>Event category: Multiple teams per branch</li>
+                <li>Compulsory participation: 1 photo per branch per year.</li>
+                <li>The participants must get their own digital cameras. (Phone Cameras are allowed)</li>
+                <li>Theme: Organised Chaos</li>
+                <li>No timestamps </li>
+                <li>Basic editing is allowed. (Only Contrast, Brightness, and Saturation can be adjusted during post effects) Photo-morphing, manipulations or local editing is not allowed.</li>
+                <li>Each photo should contain a caption of max 200 characters</li>
+                <li>1 person can submit maximum up to 2 photographs. </li>
+              </ol>
+            </div>
+          </li>
+          <li>
+            <input type="checkbox" checked /> <i></i>
+            <h2 class="source-sans bold">Branch Representatives</h2>
+            <div class="accordion_content">
+              <ol>
+                <li><strong>MECHANICAL</strong>  Parv Parmar - 8108331414 </li>
+                <li><strong>COMPUTER</strong> Hrushikesh Kansagara - 9096545599</li>
+                <li><strong>IT</strong> Shailee Patel - 7021796955</li>
+                <li><strong>ETRX</strong> Kaushal Garodia - 9004986136</li>
+                <li><strong>EXTC</strong> Aditya Azad - 7303134443</li>
+              </ol>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <button class="md-close">Close</button>
+  </div>
+</div>
+<div class="md-modal md-effect-18" id="modal-8">
+  <div class="md-content">
+    <h3>Shield Creative Writing</h3>
+    <div class="modal_content">
+      <div class="main">
+        <ul>
+          <li>
+            <input type="checkbox" checked /> <i></i>
+            <h2 class="source-sans black">Description</h2>
+            <div class="accordion_content">
+              <p class="source-sans regular">
+                
+                “The beauty of words is eternal and they prosper till the end of time”
+                A competition for all those who feel the urge to pick up the pen and paper once they see something obnoxious around. Let your words make an identity for you, come and show if your pen is indeed mightier than the sword.
+              </p>
+            </div>
+          </li>
+          <li>
+            <input type="checkbox" checked /> <i></i>
+            <h2 class="source-sans black">Rules</h2>
+            <div class="accordion_content">
+              <h4 class="source-sans bold">General Rules</h4>
+              <ol>
+                <li>Entries should be submitted using the given link before the 2nd of February.</li>
+                <li>Every participant is allowed to submit only one entry.</li>
+                <li>The entry must strictly be in English.</li>
+                <li>The entry should in only one verse: prose.</li>
+                <li>No form of plagiarism will be entertained. If found, the entry will be discarded.</li>
+                <li>Microtales, poetry, and any other form of written verse will not be accepted.</li>
+                <li>Each entry should consist of a minimum of 500 and a maximum of 2000 words.</li>
+                <li>Each entry shall be judged on the following criteria:
+                  a)Grammar and spelling
+                  b)Theme incorporation
+                  c)Originality of idea
+                d)Fluidity of prose</li>
+                <li> The theme for the competition is ‘Alternative Emotions’: Emotions like love, happiness, melancholy, and gratification have been written about for ages while those like angst, detachment, nostalgia, ennui, and many more still are relatively unexplored.</li>
+              </ol>
+            </div>
+          </li>
+          <li>
+          <input type="checkbox" checked /> <i></i>
+          <h2 class="source-sans bold">Branch Representatives</h2>
+          <div class="accordion_content">
+            <ol>
+              <li><strong>MECHANICAL</strong> Hanoz- 7710927960</li>
+              <li><strong>COMPUTER</strong> Bhagyashree- 8655127525</li>
+              <li><strong>IT</strong> Shubhanshi- 9833355631</li>
+              <li><strong>ETRX</strong>  Tanmay- 9619990279 </li>
+              <li><strong>EXTC</strong>  Yesha- 9920655512</li>
+            </ol>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+  <button class="md-close">Close</button>
+</div>
+</div>
+<div class="md-modal md-effect-18" id="modal-9">
+<div class="md-content">
+  <h3>Jamboree</h3>
+  <div class="modal_content">
+    <div class="main">
+      <ul>
+        <li>
+          <input type="checkbox" checked /> <i></i>
+          <h2 class="source-sans black">Description</h2>
+          <div class="accordion_content">
+            <p class="source-sans regular">
+              Come break the monotony of everyday life and don’t just enjoy the moment, but enjoy the vibe. At shield Jamboree, you don’t just win or lose you experience the vibe of gaiety, so come feel it and give your branch that further push to get it on the top.
+            </p>
+          </div>
+        </li>
+        <li>
+          <input type="checkbox" checked /> <i></i>
+          <h2 class="source-sans black">Rules</h2>
+          <div class="accordion_content">
+            <h4 class="source-sans bold">General Rules</h4>
+            <ol>
+              <li>Event Category: One team per Branch</li>
+              <li>Compulsory Participation: 1 team per branch, no restrictions on the team. </li>
+              <li>The team should contain a minimum of 6 members per team.</li>
+              <li>Rotation of participants is not allowed.</li>
+              <li>The details of the event will be disclosed on the day. This event will start from Day 1 of Symphony and continue up to the Shield Closing.</li>
+            </ol>
+          </div>
+        </li>
+        <li>
+          <input type="checkbox" checked /> <i></i>
+          <h2 class="source-sans bold">Branch Representatives</h2>
+          <div class="accordion_content">
+            <ol>
+              <li><strong>MECHANICAL</strong>Kruthika Gangaraju - 8424998412</li>
+              <li><strong>COMPUTER</strong> </li>
+              <li><strong>IT</strong> Hunain Adhikari - 89763 91338</li>
+              <li><strong>ETRX</strong> Rinkal Keniya - 9869541715</li>
+              <li><strong>EXTC</strong> Sneha - 9969057763</li>
+            </ol>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+  <button class="md-close">Close</button>
+</div>
+</div>
+<div class="container" >
+<main class="main--demo-6">
+  <div class="content--demo-6">
+    <!-- HAMBURGER ICON -->
+    <div class="hamburger hamburger--demo-6 js-hover">
+      <div class="hamburger__line hamburger__line--01">
+        <div class="hamburger__line-in hamburger__line-in--01 hamburger__line-in--demo-5"></div>
+      </div>
+      <div class="hamburger__line hamburger__line--02">
+        <div class="hamburger__line-in hamburger__line-in--02 hamburger__line-in--demo-5"></div>
+      </div>
+      <div class="hamburger__line hamburger__line--03">
+        <div class="hamburger__line-in hamburger__line-in--03 hamburger__line-in--demo-5"></div>
+      </div>
+      <div class="hamburger__line hamburger__line--cross01">
+        <div class="hamburger__line-in hamburger__line-in--cross01 hamburger__line-in--demo-5"></div>
+      </div>
+      <div class="hamburger__line hamburger__line--cross02">
+        <div class="hamburger__line-in hamburger__line-in--cross02 hamburger__line-in--demo-5"></div>
+      </div>
+    </div>
+    <!-- TOP LEFT IMAGE GOES HERE, height 100px -> 50px -->
+    <div class="header">
+      <a href=" index.php"><img id="logo" src="assets/images/2019/Updated symphony logo withtheme.svg" alt=""/></a>
+    </div>
+    <!-- MAIN CONTENT GOES HERE, height calc(100vh - 200px) -> calc(100vh - 100px) -->
+    <div class="eventsbg" id="main-content">
+      <div class="eventcontainer">
+        <div class="tab-wrap">
+          <!-- active tab on page load gets checked attribute -->
+          <!--       <input type="radio" id="tab1" name="tabGroup1" class="tab" checked>
+          <label for="tab1">About</label> -->
+          <input type="radio" id="tab3" name="tabGroup1" class="tab" checked />
+          <label  class="source-sans black" for="tab3">Overview</label>
+          <input type="radio" id="tab2" name="tabGroup1" class="tab" />
+          <label class="source-sans black" for="tab2">Events</label>
+          <!--       <input type="radio" id="tab4" name="tabGroup1" class="tab">
+          <label for="tab4">Informals</label>
+          
+          <input type="radio" id="tab5" name="tabGroup1" class="tab">
+          <label for="tab5">Workshops</label> -->
+          <!-- TAB CONTENT -->
+          <!-- FIRST TAB -->
+          <div class="tab__content">
+            <p>
+              The <strong>KJSCE Cultural Shield</strong> is the cultural
+              leg of the year-long inter-departmental competition - The
+              KJSCE Shield. Being the final lap in the race to attain
+              bragging rights among the 5 departments of the college,
+              these events induce some nail biting and nerve wracking
+              moments among all the participants and attendees. A make or
+              break hour for the departments, one is sure to witness some
+              prodigious performances as all the departments put their
+              best foot forward!
+              <br><br>
+            </p>
+            <div class="scorecard" id="doughnut">
+              <h2 class="source-sans black color-red">COMPS</h2>
+              <div id="doughnutChart" class="chart"></div>
+              <div class="dept_logo"></div>
+            </div>
+            <div class="scorecard" id="doughnut1">
+              <h2 class="source-sans black color-red">IT</h2>
+              <div id="doughnutChart1" class="chart"></div>
+              <div class="dept_logo"></div>
+            </div>
+            <div class="scorecard" id="doughnut2">
+              <h2 class="source-sans black color-red">Mech</h2>
+              <div id="doughnutChart2" class="chart"></div>
+              <div class="dept_logo"></div>
+            </div>
+            <div class="scorecard" id="doughnut3">
+              <h2 class="source-sans black color-red">Extc</h2>
+              <div id="doughnutChart3" class="chart"></div>
+              <div class="dept_logo"></div>
+            </div>
+            <div class="scorecard" id="doughnut4">
+              <h2 class="source-sans black color-red" x>Etrx</h2>
+              <div id="doughnutChart4" class="chart"></div>
+              <div class="dept_logo"></div>
+            </div>
+          </div>
+          <!-- <div class="tab__content">
+            <h2>What is KJSCE Cultural Shield?</h2>
+            <p> The KJSCE Cultural Shield is the cultural leg of the year-long inter-departmental competition -The KJSCE Shield. Being the final lap in the race to attain bragging rights among the 5 departments of the college, these events induce some nail biting and nerve wracking moments among all the participants and attendees. A make or break hour for the departments, one is sure to witness some prodigious performances as all the departments put their best foot forward! </p>
+          </div> -->
+          <div class="tab__content">
+            <!-- CARDS -->
+            <div class="card-container md-trigger md-setperspective" data-modal="modal-1">
+              <!-- Do not delete, or else flexbox collapses -->
+              <img src="dummyevent.png" />
+              <h4 class="eventtitle">Shield Antakshari</h4>
+              <div class="card">
+                <div class="side">
+                  <img src="assets/images/2019/antakshari.png" />
+                  <img
+                  src="https://media.giphy.com/media/1BcRgeM8fw691PnqwF/giphy.gif"
+                  alt=""
+                  />
+                  <h4 class="eventtitle">Shield Antakshari</h4>
                 </div>
-                <!-- <div class="tab__content">
-                  <h2>What is KJSCE Cultural Shield?</h2>
-                  <p> The KJSCE Cultural Shield is the cultural leg of the year-long inter-departmental competition -The KJSCE Shield. Being the final lap in the race to attain bragging rights among the 5 departments of the college, these events induce some nail biting and nerve wracking moments among all the participants and attendees. A make or break hour for the departments, one is sure to witness some prodigious performances as all the departments put their best foot forward! </p>
-                </div> -->
-                <div class="tab__content">
-                  <!-- CARDS -->
-                  <div class="card-container md-trigger md-setperspective">
-                    <!-- Do not delete, or else flexbox collapses -->
-                    <img src="dummyevent.png" />
-                    <h4 class="eventtitle">Coming Soon</h4>
-                    <div class="card">
-                      <div class="side">
-                        <img src="assets/images/2019/coming soon shield page.svg" />
-                        <h4 class="eventtitle">Antakshari</h4>
-                      </div>
-                      <div class="side back" id="back-1"></div>
-                    </div>
-                  </div>
-                  <div class="card-container md-trigger md-setperspective">
-                    <img src="dummyevent.png" />
-                    <h4 class="eventtitle">Coming Soon</h4>
-                    <div class="card">
-                      <div class="side">
-                        <img src="assets/images/2019/coming soon shield page.svg" />
-                        <h4 class="eventtitle">Art</h4>
-                      </div>
-                      <div class="side back" id="back-2"></div>
-                    </div>
-                  </div>
-                  <div class="card-container md-trigger md-setperspective">
-                    <img src="dummyevent.png" />
-                    <h4 class="eventtitle">Coming Soon</h4>
-                    <div class="card">
-                      <div class="side">
-                        <img src="assets/images/2019/coming soon shield page.svg" />
-                        <h4 class="eventtitle">Dance</h4>
-                      </div>
-                      <div class="side back" id="back-3"></div>
-                    </div>
-                  </div>
-                  <div class="card-container md-trigger md-setperspective">
-                    <img src="dummyevent.png" />
-                    <h4 class="eventtitle">Coming Soon</h4>
-                    <div class="card">
-                      <div class="side">
-                        <img src="assets/images/2019/coming soon shield page.svg" />
-                        <h4 class="eventtitle">Debate</h4>
-                      </div>
-                      <div class="side back" id="back-4"></div>
-                    </div>
-                  </div>
-                  <div class="card-container md-trigger md-setperspective">
-                    <img src="dummyevent.png" />
-                    <h4 class="eventtitle">Coming Soon</h4>
-                    <div class="card">
-                      <div class="side">
-                        <img src="assets/images/2019/coming soon shield page.svg" />
-                        <h4 class="eventtitle">Drama</h4>
-                      </div>
-                      <div class="side back" id="back-5"></div>
-                    </div>
-                  </div>
-                  <div class="card-container md-trigger md-setperspective">
-                    <img src="dummyevent.png" />
-                    <h4 class="eventtitle">Coming Soon</h4>
-                    <div class="card">
-                      <div class="side">
-                        <img src="assets/images/2019/coming soon shield page.svg" />
-                        <h4 class="eventtitle">Music</h4>
-                      </div>
-                      <div class="side back" id="back-6"></div>
-                    </div>
-                  </div>
-                  <div class="card-container md-trigger md-setperspective">
-                    <img src="dummyevent.png" />
-                    <h4 class="eventtitle">Coming Soon</h4>
-                    <div class="card">
-                      <div class="side">
-                        <img src="assets/images/2019/coming soon shield page.svg" />
-                        <h4 class="eventtitle">Photography</h4>
-                      </div>
-                      <div class="side back" id="back-7"></div>
-                    </div>
-                  </div>
-                  <div class="card-container md-trigger md-setperspective">
-                    <img src="dummyevent.png" />
-                    <h4 class="eventtitle">Coming Soon</h4>
-                    <div class="card">
-                      <div class="side">
-                        <img src="assets/images/2019/coming soon shield page.svg" />
-                        <h4 class="eventtitle">Quiz</h4>
-                      </div>
-                      <div class="side back" id="back-8"></div>
-                    </div>
-                  </div>
-                  <div class="card-container md-setperspective">
-                    <img src="dummyevent.png" />
-                    <h4 class="eventtitle">Coming Soon</h4>
-                    <div class="card">
-                      <div class="side">
-                        <img src="assets/images/2019/coming soon shield page.svg" />
-                        <h4 class="eventtitle">Jamboree</h4>
-                      </div>
-                      <div class="side back" id="back-9"></div>
-                    </div>
-                  </div>
-                  <div class="bottom"></div>
-                </div>
+                <!-- <div class="side back" id="back-1"></div> -->
               </div>
             </div>
+            <div class="card-container md-trigger md-setperspective" data-modal="modal-2">
+              <img src="dummyevent.png" />
+              <h4 class="eventtitle">Shield Art</h4>
+              <div class="card">
+                <div class="side">
+                  <img src="assets/images/2019/art.png" />
+                  <img
+                  src="https://media.giphy.com/media/iBitpd5QxRzCrpyreN/giphy.gif"
+                  alt=""
+                  />
+                  <h4 class="eventtitle">Shield Art</h4>
+                </div>
+                <!-- <div class="side back" id="back-2"></div> -->
+              </div>
+            </div>
+            <div class="card-container md-trigger md-setperspective" data-modal="modal-3">
+              <img src="dummyevent.png" />
+              <h4 class="eventtitle">Shield Dance</h4>
+              <div class="card">
+                <div class="side">
+                  <img src="assets/images/2019/dance.png" />
+                  <img
+                  src="https://media.giphy.com/media/nnmnlSn4DrRhXjulsU/giphy.gif"
+                  alt=""
+                  />
+                  <h4 class="eventtitle">Shield Dance</h4>
+                </div>
+                <!-- <div class="side back" id="back-3"></div> -->
+              </div>
+            </div>
+            <div class="card-container md-trigger md-setperspective" data-modal="modal-4">
+              <img src="dummyevent.png" />
+              <h4 class="eventtitle">Shield Debate</h4>
+              <div class="card">
+                <div class="side">
+                  <img src="assets/images/2019/debate.png" />
+                  <img
+                  src="https://media.giphy.com/media/8P7u59gSiPSt5vOPQa/giphy.gif"
+                  alt=""
+                  />
+                  <h4 class="eventtitle">Shield Debate</h4>
+                </div>
+                <!-- <div class="side back" id="back-4"></div> -->
+              </div>
+            </div>
+            <div class="card-container md-trigger md-setperspective" data-modal="modal-5">
+              <img src="dummyevent.png" />
+              <h4 class="eventtitle">Shield Drama</h4>
+              <div class="card">
+                <div class="side">
+                  <img src="assets/images/2019/drama.png" />
+                  <img
+                  src="https://media.giphy.com/media/NTjk7mdYkAYV7zggj4/giphy.gif"
+                  alt=""
+                  />
+                  <h4 class="eventtitle">Shield Drama</h4>
+                </div>
+                <!-- <div class="side back" id="back-5"></div> -->
+              </div>
+            </div>
+            <div class="card-container md-trigger md-setperspective" data-modal="modal-6">
+              <img src="dummyevent.png" />
+              <h4 class="eventtitle">Shield Music</h4>
+              <div class="card">
+                <div class="side">
+                  <img src="assets/images/2019/music.png" />
+                  <img
+                  src="https://media.giphy.com/media/1wpOXK6uNgIbZwg46Z/giphy.gif"
+                  alt=""
+                  />
+                  <h4 class="eventtitle">Shield Music</h4>
+                </div>
+                <!-- <div class="side back" id="back-6"></div> -->
+              </div>
+            </div>
+            <div class="card-container md-trigger md-setperspective" data-modal="modal-7">
+              <img src="dummyevent.png" />
+              <h4 class="eventtitle">Shield Photography</h4>
+              <div class="card">
+                <div class="side">
+                  <img src="assets/images/2019/photography.png" />
+                  <img
+                  src="https://media.giphy.com/media/1APal5rxbhUkNvKTwU/giphy.gif"
+                  alt=""
+                  />
+                  <h4 class="eventtitle">Shield Photography</h4>
+                </div>
+                <!-- <div class="side back" id="back-7"></div> -->
+              </div>
+            </div>
+            <div class="card-container md-trigger md-setperspective" data-modal="modal-8">
+              <img src="dummyevent.png" />
+              <h4 class="eventtitle">Shield Creative Writing</h4>
+              <div class="card">
+                <div class="side">
+                  <img src="assets/images/2019/creativewriting.png" />
+                  <img
+                  src="https://media.giphy.com/media/4ZgJBQEzuCcXOkncY6/giphy.gif"
+                  alt=""
+                  />
+                  <h4 class="eventtitle">Shield Creative Writing</h4>
+                </div>
+                <!-- <div class="side back" id="back-8"></div> -->
+              </div>
+            </div>
+            <div class="card-container md-trigger md-setperspective" data-modal="modal-9">
+              <img src="dummyevent.png" />
+              <h4 class="eventtitle">Jamboree</h4>
+              <div class="card">
+                <div class="side">
+                  <img src="assets/images/2019/jamboree.png" />
+                  <img
+                  src="https://media.giphy.com/media/oFyKhCNld4PfZI5ILg/giphy.gif"
+                  alt=""
+                  />
+                  <h4 class="eventtitle">Jamboree</h4>
+                </div>
+                <!-- <div class="side back" id="back-9"></div> -->
+              </div>
+            </div>
+            <div class="bottom"></div>
           </div>
-          <?php
-          require_once('includes/sitemap.php');
-          ?>
         </div>
-      </main>
-      <!-- EVENTS TAB -->
+      </div>
     </div>
-    <div class="md-overlay"></div>
-    <!-- the overlay element -->
-    <!-- classie.js by @desandro: https://github.com/desandro/classie -->
-    
-    
-    <script src="assets/js/jquery.min.js"></script>
-    <script src="assets/js/easings.js"></script>
-    <script src="assets/js/demo.js"></script>
-    <script src="assets/js/demo6.js"></script>
-    <script src="assets/js/classie.js"></script>
-    <script src="assets/js/temp.js"></script>
-    <script src="assets/js/modalEffects.js"></script>
-    <!-- for the blur effect -->
-    <!-- by @derSchepp https://github.com/Schepp/CSS-Filters-Polyfill -->
-    <script>
-    // this is important for IEs
-    var polyfilter_scriptpath = "assets/js/";
-    </script>
-  </body>
+    <?php
+    require_once('includes/sitemap.php');
+    ?>
+  </div>
+</main>
+<!-- EVENTS TAB -->
+</div>
+<div class="md-overlay"></div>
+<!-- the overlay element -->
+<!-- classie.js by @desandro: https://github.com/desandro/classie -->
+<script src="assets/js/jquery.min.js"></script>
+<script src="assets/js/easings.js"></script>
+<script src="assets/js/demo.js"></script>
+<script src="assets/js/demo6.js"></script>
+<script src="assets/js/classie.js"></script>
+<script src="assets/js/temp.js"></script>
+<script src="assets/js/modalEffects.js"></script>
+<!-- for the blur effect -->
+<!-- by @derSchepp https://github.com/Schepp/CSS-Filters-Polyfill -->
+<script>
+// this is important for IEs
+var polyfilter_scriptpath = "assets/js/";
+</script>
+</body>
 </html>

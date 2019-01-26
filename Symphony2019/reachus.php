@@ -19,7 +19,11 @@
     <link rel="stylesheet" href="assets/css/reachus.css" />
     <link rel="stylesheet" href="assets/css/sitemap.css" />
     <link rel="stylesheet" href="assets/css/index.css">
-    <!-- Global site tag (gtag.js) - Google Analytics -->
+      <!-- Latest compiled and minified CSS & JS -->
+      <link rel="stylesheet" media="screen"
+            href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+      <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-132742730-1"></script>
     <script>
     window.dataLayer = window.dataLayer || [];
@@ -28,7 +32,7 @@
     gtag('config', 'UA-132742730-1');
     </script>
   </head>
-  <body class="demo-6">
+  <body class="demo-6" id="reach-us-page">
     <main class="main--demo-6">
       <div class="content--demo-6">
         <!-- HAMBURGER ICON -->
@@ -64,15 +68,120 @@
           <a href=" index.php"><img id="logo" src="assets/images/2019/Updated symphony logo withtheme.svg" alt=""/></a>
         </div>
         <!-- MAIN CONTENT GOES HERE, height calc(100vh - 200px) -> calc(100vh - 100px) -->
-        <div class="carousel__container reach-us-wrapper" id="main-content">
-          <div class="carousel__carouselContainer" id="map">
-            <iframe width="100%" height="100%" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=KJ%20Somaiya%20Engineering&key=AIzaSyBWfmSamzCQJ8PKdpAIl7ravpkVZKEd3oU" allowfullscreen></iframe>
-          </div>
-          <div class="carousel__textContainer" id="address">
-            <div class="carousel__img text-left"  class="source-sans regular" >
-              <img id="reach-us-address" src="./assets/images/address.png" alt="" >
-            </div>
-          </div>
+        <div class="" id="main-content">
+
+            <section id="team">
+                <div class="content-box">
+                    <div class="content-title wow animated fadeInDown" data-wow-duration="1s" data-wow-delay=".2s">
+                        <h3 class="source-sans black">Designing</h3>
+                        <div class="content-title-underline"></div>
+                    </div>
+                    <!-- content-title-->
+                    <div class="container">
+                        <div class="row wow animated fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
+                            <div class="col-md-12">
+                                <div class="team-members owl-carousel owl-theme">
+
+
+                                    <div class="team-member">
+                                        <img src="assets/images/team/team-2.jpg" alt="" class="img-responsive">
+
+                                        <div class="team-member-info">
+                                            <h4 class="team-member-name source-sans black">xyz</h4>
+                                            <h4 class="text-info source-sans ">lorem lpsm</h4>
+                                            <h4 class="team-member-desgination source-sans">Designer</h4>
+                                            <ul class="social-list">
+                                                <li><a href="" class="social-icon icon-gray"> <i class="fa fa-facebook"></i></a></li>
+                                                <li><a href="" class="social-icon icon-gray"> <i class="fa fa-twitter"></i></a></li>
+                                                <li><a href="" class="social-icon icon-gray"> <i class="fa fa fa-linkedin"></i></a></li>
+
+                                            </ul>
+                                        </div>
+                                        <!--team member info-->
+                                    </div>
+                                    <!--team-member-->
+                                    <div class="team-member">
+                                        <img src="assets/images/team/team-2.jpg" alt="" class="img-responsive">
+
+                                        <div class="team-member-info">
+                                            <h4 class="team-member-name source-sans black">xyz</h4>
+                                            <h4 class="text-info source-sans">lorem lpsm</h4>
+                                            <h4 class="team-member-desgination source-sans">Designer</h4>
+                                            <ul class="social-list">
+                                                <li><a href="" class="social-icon icon-gray"> <i class="fa fa-facebook"></i></a></li>
+                                                <li><a href="" class="social-icon icon-gray"> <i class="fa fa-twitter"></i></a></li>
+                                                <li><a href="" class="social-icon icon-gray"> <i class="fa fa fa-linkedin"></i></a></li>
+
+                                            </ul>
+                                        </div>
+                                        <!--team member info-->
+                                    </div>
+                                    <!--team-member-->
+                                    <div class="team-member">
+                                        <img src="assets/images/team/team-2.jpg" alt="" class="img-responsive">
+
+                                        <div class="team-member-info">
+                                            <h4 class="team-member-name source-sans black">xyz</h4>
+                                            <h4 class="text-info source-sans">lorem lpsm</h4>
+                                            <h4 class="team-member-desgination source-sans">Designer</h4>
+                                            <ul class="social-list">
+                                                <li><a href="" class="social-icon icon-gray"> <i class="fa fa-facebook"></i></a></li>
+                                                <li><a href="" class="social-icon icon-gray"> <i class="fa fa-twitter"></i></a></li>
+                                                <li><a href="" class="social-icon icon-gray"> <i class="fa fa fa-linkedin"></i></a></li>
+
+                                            </ul>
+                                        </div>
+                                        <!--team member info-->
+                                    </div>
+                                    <!--team-member-->
+                                    <div class="team-member">
+                                        <img src="assets/images/team/team-2.jpg" alt="" class="img-responsive">
+
+                                        <div class="team-member-info">
+                                            <h4 class="team-member-name source-sans black">xyz</h4>
+                                            <h4 class="text-info source-sans">lorem lpsm</h4>
+                                            <h4 class="team-member-desgination source-sans">Designer</h4>
+                                            <ul class="social-list">
+                                                <li><a href="" class="social-icon icon-gray"> <i class="fa fa-facebook"></i></a></li>
+                                                <li><a href="" class="social-icon icon-gray"> <i class="fa fa-twitter"></i></a></li>
+                                                <li><a href="" class="social-icon icon-gray"> <i class="fa fa fa-linkedin"></i></a></li>
+
+                                            </ul>
+                                        </div>
+                                        <!--team member info-->
+                                    </div>
+                                    <!--team-member-->
+                                    <div class="team-member">
+                                        <img src="assets/images/team/team-2.jpg" alt="" class="img-responsive">
+
+                                        <div class="team-member-info">
+                                            <h4 class="team-member-name source-sans black">xyz</h4>
+                                            <h4 class="text-info source-sans">lorem lpsm</h4>
+                                            <h4 class="team-member-desgination source-sans">Designer</h4>
+                                            <ul class="social-list">
+                                                <li><a href="" class="social-icon icon-gray"> <i class="fa fa-facebook"></i></a></li>
+                                                <li><a href="" class="social-icon icon-gray"> <i class="fa fa-twitter"></i></a></li>
+                                                <li><a href="" class="social-icon icon-gray"> <i class="fa fa fa-linkedin"></i></a></li>
+
+                                            </ul>
+                                        </div>
+                                        <!--team member info-->
+                                    </div>
+                                    <!--team-member-->
+
+                                </div>
+                                <!--team-members-->
+
+
+                            </div>
+                            <!--col-md-4-->
+                        </div>
+                        <!--row-->
+                    </div>
+                    <!-- container-->
+                </div>
+                <!-- content-box-->
+            </section>
         </div>
         
         <!-- SITEMAP -->
@@ -83,6 +192,7 @@
     </main>
     
     <script src="assets/js/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     <script src="assets/js/easings.js"></script>
     <script src="assets/js/demo.js"></script>
     <script src="assets/js/demo6.js"></script>
@@ -90,18 +200,25 @@
     
     <script>
     $(document).ready(function() {
-    $("#owl-demo").owlCarousel({
-    autoplay: true,
-    autoplaySpeed: 100,
-    dots: true,
-    items: 1,
-    nav: true,
-    rewind: true,
-    navText: [
-    "<i class='fa fa-chevron-circle-left color-red'></i>",
-    "<i class='fa fa-chevron-circle-right color-red'></i>"
-    ]
-    });
+        $(".team-members").owlCarousel({
+            items: 3,
+            autoplay: true,
+            smartSpeed: 700,
+            loop: true,
+            autoplayHoverPause: true,
+            responsive: {
+                0: {
+                    items: 1,
+                    autoplayHoverPause: false,
+                },
+                480: {
+                    items: 2,
+                },
+                768: {
+                    items: 3,
+                }
+            }
+        });
     });
     </script>
   </body>

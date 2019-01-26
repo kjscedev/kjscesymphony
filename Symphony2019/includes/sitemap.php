@@ -67,7 +67,7 @@
               <a class="heading source-sans global-menu__item global-menu__item--demo-6 is-opened black" href="about-us.php">About Us</a>
           </div>
           <div class="page-heading">
-            <a class="heading source-sans global-menu__item global-menu__item--demo-6 is-opened black" href="theme.php">Themes</a>
+            <a class="heading source-sans global-menu__item global-menu__item--demo-6 is-opened black" href="theme.php">Theme</a>
           </div>
           <div class="page-heading">
             <a class="heading source-sans global-menu__item global-menu__item--demo-6 is-opened black" href="events.php">Events</a>

@@ -79,41 +79,299 @@
               <label for="tab1"  class="source-sans black">2018</label>
               <input type="radio" id="tab2" name="tabGroup1" class="tab" />
               <label for="tab2"  class="source-sans black">2017</label>
+              <!-- HUNAID 2019 SPONSORS START HERE -->
               <div class="tab__content">
                 <div class="sponsorsection1">
-                  <div>
-                    <h6></h6>
+                  <div><h6>Style Discount Partner</h6>
                     <!-- <img src="assets/images/sponsors/2017/Pulse.jpg" alt> -->
-                    <a target="_blank" href="http://www.diamondmela.com">
+                    <a target="_blank" href="https://www.thesouledstore.com/?gclid=EAIaIQobChMIyIiFve3L3QIVEm5-Ch3RYA0uEAAYASAAEgJDHvD_BwE">
                       <div class="sponsorcontainer">
-                        <img
-                        src="https://dummyimage.com/400x200/fff/fff"
-                        alt
-                      /></div
-                    ></a>
-                  </div>
-                  <div>
-                    <h6>Coming Soon</h6>
+                        <img src="assets/images/sponsors/2019/The Souled Store.png" alt>
+                      </div></a>
+                    </div>
+
+                  <div><h6>Chocolate Gifting Partner</h6>
                     <!-- <img src="assets/images/sponsors/2017/Pulse.jpg" alt> -->
-                    <a target="_blank" href="http://www.diamondmela.com">
+                    <a target="_blank" href="https://www.loacker.com/int/en/">
                       <div class="sponsorcontainer">
-                        <img
-                        src="https://dummyimage.com/400x200/fff/fff"
-                        alt
-                      /></div
-                    ></a>
-                  </div>
-                  <div>
-                    <h6></h6>
+                        <img src="assets/images/sponsors/2019/Loacker.png" alt>
+                      </div></a>
+                    </div>
+                  
+
+                  <div><h6>Body Care Partner</h6>
                     <!-- <img src="assets/images/sponsors/2017/Pulse.jpg" alt> -->
-                    <a target="_blank" href="http://www.diamondmela.com">
+                    <a target="_blank" href="https://www.ogxbeauty.com/">
                       <div class="sponsorcontainer">
-                        <img
-                        src="https://dummyimage.com/400x200/fff/fff"
-                        alt
-                      /></div
-                    ></a>
-                  </div>
+                        <img src="assets/images/sponsors/2019/Natural Indulgence.png" alt>
+                      </div></a>
+                    </div>
+                  
+                  <div><h6>Grooming Partner</h6>
+                    <!-- <img src="assets/images/sponsors/2017/Pulse.jpg" alt> -->
+                    <a target="_blank" href="http://envisalon.in/">
+                      <div class="sponsorcontainer">
+                        <img src="assets/images/sponsors/2019/Envi Salon.png" alt>
+                      </div></a>
+                    </div>
+
+                  <div><h6>Holiday Partner</h6>
+                    <!-- <img src="assets/images/sponsors/2017/Pulse.jpg" alt> -->
+                    <a target="_blank" href="https://metrocouponzindia.com/">
+                      <div class="sponsorcontainer">
+                        <img src="assets/images/sponsors/2019/Metro Couponz.png" alt>
+                      </div></a>
+                    </div>
+
+                  <div><h6>VR Gaming Partner</h6>
+                    <!-- <img src="assets/images/sponsors/2017/Pulse.jpg" alt> -->
+                    <a target="_blank" href="https://in.msi.com">
+                      <div class="sponsorcontainer">
+                        <img src="assets/images/sponsors/2019/msi.png" alt>
+                      </div></a>
+                    </div>
+
+                  <div><h6>Beverage Partner</h6>
+                    <!-- <img src="assets/images/sponsors/2017/Pulse.jpg" alt> -->
+                    <a target="_blank" href="https://www.coca-colaindia.com/">
+                      <div class="sponsorcontainer">
+                        <img src="assets/images/sponsors/2019/Coca Cola.png" alt>
+                      </div></a>
+                    </div>
+
+                  <div><h6>Creative Merchandise Partner</h6>
+                    <!-- <img src="assets/images/sponsors/2017/Pulse.jpg" alt> -->
+                    <a target="_blank" href="https://www.gdcreatives.in/">
+                      <div class="sponsorcontainer">
+                        <img src="assets/images/sponsors/2019/GD Creatives.png" alt>
+                      </div></a>
+                    </div>
+
+                  <div><h6>Chocolate Gifting Partner</h6>
+                    <!-- <img src="assets/images/sponsors/2017/Pulse.jpg" alt> -->
+                    <a target="_blank" href="http://www.biscoff.com/indulge/lotus-biscoff-cookies">
+                      <div class="sponsorcontainer">
+                        <img src="assets/images/sponsors/2019/Lotus Biscoff.png" alt>
+                      </div></a>
+                    </div>
+
+                                      <div><h6>Art Events Partner </h6>
+                    <!-- <img src="assets/images/sponsors/2017/Pulse.jpg" alt> -->
+                    <a target="_blank" href="https://store.wacom.co.in/">
+                      <div class="sponsorcontainer">
+                        <img src="assets/images/sponsors/2019/Wacom.png" alt>
+                      </div></a>
+                    </div>
+
+                                      <div><h6>Digital Music Partner</h6>
+                    <!-- <img src="assets/images/sponsors/2017/Pulse.jpg" alt> -->
+                    <a target="_blank" href="https://www.oklisten.com/">
+                      <div class="sponsorcontainer">
+                        <img src="assets/images/sponsors/2019/OK Listen.png" alt>
+                      </div></a>
+                    </div>
+
+
+                                      <div><h6>Natsamrat Partner </h6>
+                    <!-- <img src="assets/images/sponsors/2017/Pulse.jpg" alt> -->
+                    <a target="_blank" href="http://wingstobollywood.com/">
+                      <div class="sponsorcontainer">
+                        <img src="assets/images/sponsors/2019/Wings To Bollywood.png" alt>
+                      </div></a>
+                    </div>
+
+
+                                      <div><h6>Verve Partner</h6>
+                    <!-- <img src="assets/images/sponsors/2017/Pulse.jpg" alt> -->
+                    <a target="_blank" href=" ">
+                      <div class="sponsorcontainer">
+                        <img src="assets/images/sponsors/2019/Nritya Shakti.png" alt>
+                      </div></a>
+                    </div>
+
+
+                                      <div><h6>Photography Education Partner</h6>
+                    <!-- <img src="assets/images/sponsors/2017/Pulse.jpg" alt> -->
+                    <a target="_blank" href="http://www.mdps.in/">
+                      <div class="sponsorcontainer">
+                        <img src="assets/images/sponsors/2019/MDPS.png" alt>
+                      </div></a>
+                    </div>
+
+
+                  <div><h6>Shield Music Partner</h6>
+                    <!-- <img src="assets/images/sponsors/2017/Pulse.jpg" alt> -->
+                    <a target="_blank" href="https://www.ajivasan.com/">
+                      <div class="sponsorcontainer">
+                        <img src="assets/images/sponsors/2019/Ajivasan.png" alt>
+                      </div></a>
+                    </div>
+
+
+                  <div><h6>Drama Partner</h6>
+                    <!-- <img src="assets/images/sponsors/2017/Pulse.jpg" alt> -->
+                    <a target="_blank" href="http://www.viduractinginstitute.com/">
+                      <div class="sponsorcontainer">
+                        <img src="assets/images/sponsors/2019/Vidur Acting.png" alt>
+                      </div></a>
+                    </div>
+
+                  <div><h6>Symphony Idol Partner</h6>
+                    <!-- <img src="assets/images/sponsors/2017/Pulse.jpg" alt> -->
+                    <a target="_blank" href="https://www.shankarmahadevanacademy.com/how-academy-works/">
+                      <div class="sponsorcontainer">
+                        <img src="assets/images/sponsors/2018/shankar.png" alt>
+                      </div></a>
+                    </div>
+
+                  <div><h6>Print Media Publication</h6>
+                    <!-- <img src="assets/images/sponsors/2017/Pulse.jpg" alt> -->
+                    <a target="_blank" href=" ">
+                      <div class="sponsorcontainer">
+                        <img src="assets/images/sponsors/2019/The Free Press Journal.png" alt>
+                      </div></a>
+                    </div>
+
+
+                  <div><h6>Exclusive Multiplex Partner</h6>
+                    <!-- <img src="assets/images/sponsors/2017/Pulse.jpg" alt> -->
+                    <a target="_blank" href="https://www.blogadda.com/">
+                      <div class="sponsorcontainer">
+                        <img src="assets/images/sponsors/2019/INOX.png" alt>
+                      </div></a>
+                    </div>
+                  
+
+                  <div><h6>Online media partner</h6>
+                    <!-- <img src="assets/images/sponsors/2017/Pulse.jpg" alt> -->
+                    <a target="_blank" href="https://getmyfest.com/index.php">
+                      <div class="sponsorcontainer">
+                        <img src="assets/images/sponsors/2019/Get My Fest.png" alt>
+                      </div></a>
+                    </div>
+
+
+                  <div><h6>Print Media Publication</h6>
+                    <!-- <img src="assets/images/sponsors/2017/Pulse.jpg" alt> -->
+                    <a target="_blank" href=" ">
+                      <div class="sponsorcontainer">
+                        <img src="assets/images/sponsors/2019/NBT.png" alt>
+                      </div></a>
+                    </div>
+
+                  <div><h6>Youth Partner</h6>
+                    <!-- <img src="assets/images/sponsors/2017/Pulse.jpg" alt> -->
+                    <a target="_blank" href=" ">
+                      <div class="sponsorcontainer">
+                        <img src="assets/images/sponsors/2019/Youth Incorporated.png" alt>
+                      </div></a>
+                    </div>
+
+                  <div><h6>Print Media Publication</h6>
+                    <!-- <img src="assets/images/sponsors/2017/Pulse.jpg" alt> -->
+                    <a target="_blank" href=" ">
+                      <div class="sponsorcontainer">
+                        <img src="assets/images/sponsors/2019/Mumbai Halchal.png" alt>
+                      </div></a>
+                    </div>
+                  
+                  <div><h6>Online media partner</h6>
+                    <!-- <img src="assets/images/sponsors/2017/Pulse.jpg" alt> -->
+                    <a target="_blank" href="http://www.festsamachar.com/">
+                      <div class="sponsorcontainer">
+                        <img src="assets/images/sponsors/2019/Fest Samachar.png" alt>
+                      </div></a>
+                    </div>
+                  
+                  <div><h6>Online media partner</h6>
+                    <!-- <img src="assets/images/sponsors/2017/Pulse.jpg" alt> -->
+                    <a target="_blank" href="https://atkt.in/">
+                      <div class="sponsorcontainer">
+                        <img src="assets/images/sponsors/2019/ATKT.png" alt>
+                      </div></a>
+                    </div>
+                  
+                  <div><h6>Online media partner</h6>
+                    <!-- <img src="assets/images/sponsors/2017/Pulse.jpg" alt> -->
+                    <a target="_blank" href="https://www.noticebard.com/">
+                      <div class="sponsorcontainer">
+                        <img src="assets/images/sponsors/2019/Notice Bard.png" alt>
+                      </div></a>
+                    </div>
+                  
+                  <div><h6>Online media partner</h6>
+                    <!-- <img src="assets/images/sponsors/2017/Pulse.jpg" alt> -->
+                    <a target="_blank" href="https://stupidsid.com/">
+                      <div class="sponsorcontainer">
+                        <img src="assets/images/sponsors/2019/Stupidsid.png" alt>
+                      </div></a>
+                    </div>
+                  
+                  <div><h6>Online media partner</h6>
+                    <!-- <img src="assets/images/sponsors/2017/Pulse.jpg" alt> -->
+                    <a target="_blank" href="https://www.whatsuplife.in/">
+                      <div class="sponsorcontainer">
+                        <img src="assets/images/sponsors/2019/Whats Up Mumbai.png" alt>
+                      </div></a>
+                    </div>
+                  
+                  <div><h6>Online media partner</h6>
+                    <!-- <img src="assets/images/sponsors/2017/Pulse.jpg" alt> -->
+                    <a target="_blank" href="https://www.campuskarma.in/">
+                      <div class="sponsorcontainer">
+                        <img src="assets/images/sponsors/2019/Campus Karma.png" alt>
+                      </div></a>
+                    </div>
+                  <div><h6>Online media partner</h6>
+                    <!-- <img src="assets/images/sponsors/2017/Pulse.jpg" alt> -->
+                    <a target="_blank" href="https://www.laughalaughi.com/">
+                      <div class="sponsorcontainer">
+                        <img src="assets/images/sponsors/2019/Laughalaughi.png" alt>
+                      </div></a>
+                    </div>
+
+                  <div><h6>Online media partner</h6>
+                    <!-- <img src="assets/images/sponsors/2017/Pulse.jpg" alt> -->
+                    <a target="_blank" href="https://vaanahaa.com/">
+                      <div class="sponsorcontainer">
+                        <img src="assets/images/sponsors/2019/Vaanahaa.png" alt>
+                      </div></a>
+                    </div>
+
+                  <div><h6>Online media partner</h6>
+                    <!-- <img src="assets/images/sponsors/2017/Pulse.jpg" alt> -->
+                    <a target="_blank" href="http://www.theeducationtree.com/">
+                      <div class="sponsorcontainer">
+                        <img src="assets/images/sponsors/2019/The Education Tree.png" alt>
+                      </div></a>
+                    </div>
+
+                  <div><h6>Online media partner</h6>
+                    <!-- <img src="assets/images/sponsors/2017/Pulse.jpg" alt> -->
+                    <a target="_blank" href="https://www.competekaro.com/">
+                      <div class="sponsorcontainer">
+                        <img src="assets/images/sponsors/2019/Compete Karo.png" alt>
+                      </div></a>
+                    </div>
+
+				<div><h6>Online media partner</h6>
+                    <!-- <img src="assets/images/sponsors/2017/Pulse.jpg" alt> -->
+                    <a target="_blank" href="http://festflick.com/">
+                      <div class="sponsorcontainer">
+                        <img src="assets/images/sponsors/2019/Fest Flick.png" alt>
+                      </div></a>
+                    </div>
+
+				 <div><h6>Online media partner</h6>
+                    <!-- <img src="assets/images/sponsors/2017/Pulse.jpg" alt> -->
+                    <a target="_blank" href="https://www.igniteengineers.com/">
+                      <div class="sponsorcontainer">
+                        <img src="assets/images/sponsors/2019/Ignite Engineers.png" alt>
+                      </div></a>
+                    </div>
+
+				<!-- HUNAID Sponsor 2019 tab ends here -->
+
                 </div>
               </div>
               <div class="tab__content">
